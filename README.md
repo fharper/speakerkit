@@ -6,6 +6,28 @@ It contains the [full](biography-long-EN.md) and [short](biography-short-EN.md) 
 * [Open Source](abstracts/oss.md)
 
 If you want to see previous talks I gave, check my [speaking page](https://outofcomfortzone.net/speaking/).
+
+## Personal Informations
+**Name:** Frédéric Harper
+
+**Company:** npm, Inc.
+
+**Company website:** <https://www.npmjs.com/>
+
+**Company Twitter:** [@npmjs](https://twitter.com/npmjs)
+
+**Job title:** Senior Developer Advocate
+
+**Languages:** English & French
+
+**Website:** https://outofcomfortzone.net/
+
+**Twitter:** [@fharper](https://twitter.com/fharper)
+
+**LinkedIn:** <https://www.linkedin.com/in/fredericharper/>
+
+**Location:** Montréal, Canada
+
 ## Biography
 
 ### English - full version
