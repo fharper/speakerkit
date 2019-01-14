@@ -1,7 +1,7 @@
 # My Speaker Kit
 My public speaking kit for the event’s organizers.
 
-- [Requierements](#requierements) (read this before contacting me please)
+- [Requirements](#requirements) (read this before contacting me please)
 - [Personal informations](#personal-informations)
 - [Biography](#biography)
 - [Pictures](pictures/)
