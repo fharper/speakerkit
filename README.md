@@ -15,7 +15,7 @@ If you want to see previous talks I gave, check my [speaking page](https://outof
 
 ## Requirements
 If you want me to speak at your event, here is a list of requirements before considering asking me:
-* Your event is welcoming everyone, no matter where they come from, their social status, gender, orientation, beliefs, or education. 
+* Your event is welcoming everyone, no matter where they come from, their social status, gender, orientation, beliefs, education and their mental or physical abilities. 
 * You have an enforced Code of Conduct (looking for one, check [confcodeofconduct.com)](https://github.com/confcodeofconduct/confcodeofconduct.com);
 * If you record my talk, the video needs to be accessible for free to everyone and cannot be sold in any capacity;
 * You want me to speak at your event because you find my content valuable for your attendees, not because you want my employer to sponsor your event;
