@@ -20,7 +20,7 @@ If you want me to speak at your event, here is a list of requirements before con
 * If you record my talk, the video needs to be accessible for free to everyone and cannot be sold in any capacity;
 * You want me to speak at your event because you find my content valuable for your attendees, not because you want my employer to sponsor your event;
 * You let me use my computer ([MacBook Air 2018](https://support.apple.com/kb/SP783?viewlocale=en_US&locale=en_US) - USB C);
-* You don't ask for talk materials in advance (unless there are live traductions). I will gladly give my slides and code examples for you to share after my talk.
+* You don't ask for talk materials in advance (unless there are live translations). I will gladly give my slides and code examples for you to share after my talk.
 
 ## Prioritization
 I will prioritize events that are
