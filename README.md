@@ -30,24 +30,3 @@ I will prioritize events that are
 * recording the talk;
 * paying for the travel arrangements;
 * making real efforts to promote diversity.
-
-## Personal Informations
-**Name:** Frédéric Harper
-
-**Company:** npm, Inc.
-
-**Company website:** <https://www.npmjs.com/>
-
-**Company Twitter:** [@npmjs](https://twitter.com/npmjs)
-
-**Job title:** Senior Developer Advocate
-
-**Languages:** English & French
-
-**Website:** https://outofcomfortzone.net/
-
-**Twitter:** [@fharper](https://twitter.com/fharper)
-
-**LinkedIn:** <https://www.linkedin.com/in/fredericharper/>
-
-**Location:** Montréal, Canada
