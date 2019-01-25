@@ -1,10 +1,10 @@
 # Abstracts
 
 List of talks I can give (I will gladly create a new one for your event):
-- Web
-- Ruby
-- Open Source
-- Mental Health
+- [Web](#web)
+- [Ruby](#ruby)
+- [Open Source](#open-source)
+- [Mental Health](#mental-health)
 
 _Note that I'm slowly adding them here so it's not a complete list._
 
