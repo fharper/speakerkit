@@ -4,12 +4,14 @@ My public speaking kit for the event’s organizers.
 - [Requirements](#requirements) (read this before contacting me please)
 - [Prioritization](#prioritization)
 - [Personal informations](#personal-informations)
-- [Biography](#biography)
+- [Biography](biography.md)
 - [Pictures](pictures/)
 
 Lastly, but not last, a list of talks I can give is in the [abstracts folder](abstracts/) (note that I'm slowly adding them here so it's not a complete list):
-* [Web](abstracts/web.md)
+* [Health](abstracts/health.md)
 * [Open Source](abstracts/oss.md)
+* [Web](abstracts/web.md)
+
 
 If you want to see previous talks I gave, check my [speaking page](https://outofcomfortzone.net/speaking/).
 
@@ -49,14 +51,3 @@ I will prioritize events that are
 **LinkedIn:** <https://www.linkedin.com/in/fredericharper/>
 
 **Location:** Montréal, Canada
-
-## Biography
-
-### English - full version (110 words)
-As a Senior Developer Advocate at npm, Frédéric Harper is helping developers being successful within the JavaScript world. Former Mozilla and Microsoft Technical Evangelist, he has had the pleasure to share his passion for technology at more than 140 events in about 20 countries. Capitalizing on his attention deficit and hyperactivity disorder (ADHD), Frédéric is always onto the next challenge. He is also the author of the “Success in Programming - How to Gain Recognition, Power, and Influence Through Personal Branding” book published at Apress. Behind this extrovert who lives by the no bullshit policy is a very passionate individual who believes in the power of communication... and cat videos.
-
-### English - medium size (168 words)
-As a Senior Developer Advocate at npm, Frédéric Harper is helping developers being successful within the JavaScript world. Former Mozilla and Microsoft Technical Evangelist, Frédéric is a prolific international public speaker and the author of a book on personal branding published at Apress. Behind this extrovert who lives by the no bullshit policy is a very passionate individual who believes in the power of communication... and cat videos.
-
-### English - tweet size version (16 words - 111 characters)
-Developer Advocate @ npmjs, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more
