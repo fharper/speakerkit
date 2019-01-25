@@ -3,7 +3,7 @@ My public speaking kit for the event’s organizers.
 
 - [Requirements](#requirements) (read this before contacting me please)
 - [Prioritization](#prioritization)
-- [Personal informations](#personal-informations)
+- [Personal informations](personalinfo.md)
 - [Biography](biography.md)
 - [Pictures](pictures/)
 
