@@ -1,17 +1,12 @@
 # My Speaker Kit
 My public speaking kit for the event’s organizers.
 
+- [Abstracts](abstracts.md)
 - [Requirements](#requirements) (read this before contacting me please)
 - [Prioritization](#prioritization)
 - [Personal informations](personalinfo.md)
 - [Biography](biography.md)
 - [Pictures](pictures/)
-
-Lastly, but not last, a list of talks I can give is in the [abstracts folder](abstracts/) (note that I'm slowly adding them here so it's not a complete list):
-* [Health](abstracts/health.md)
-* [Open Source](abstracts/oss.md)
-* [Web](abstracts/web.md)
-
 
 If you want to see previous talks I gave, check my [speaking page](https://outofcomfortzone.net/speaking/).
 
