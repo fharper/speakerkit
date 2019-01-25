@@ -6,6 +6,7 @@ List of talks I can give (I will gladly create a new one for your event):
 - [Open Source](#open-source)
 - [Mental Health](#mental-health)
 - [Personal Branding](#personal-branding)
+- [Public Speaking](#public-speaking)
 
 _Note that I'm slowly adding them here so it's not a complete list._
 
@@ -33,3 +34,8 @@ Depression, suicide, and anxiety are some of the words that most of us would lik
 
 ### Personal Branding: it’s more important than you think
 Why should you care about your personal brand? After all, it’s not like you are an actor or the lead singer for a rock band. In fact, it’s never been more important for you to think about yourself as a brand. Doing so will provide rocket fuel for your career. You’ll find better jobs and become a  “thought leader” in your industry. You’ll become known for your expertise and leadership; people will seek your advice and point of view. As a developer, there are many tools you can use to build a personal brand, and this presentation will help you learn how to get visibility, make a real impact, and achieve your goals. You don’t need to be a marketing expert or a personal branding guru— you can be yourself and get your dream job or reach the next level of your career.
+
+## Public Speaking
+
+### Public Speaking? It’s for you!
+Do you have a passion? Do you like to share with others? Public speaking can help you share this passion with others  in your industry and help them  find success. But let's be honest: you'll get a lot out of it too. You'll learn from attendees, grow your network, get visibility, and much more in return for your efforts. Let's explore how you can start getting comfortable with public speaking and how you can find opportunities to reach the perfect audience. Who knows, you could be the one speaking on this stage next time!
