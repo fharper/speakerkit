@@ -25,3 +25,9 @@ I will prioritize events that are
 * recording the talk;
 * paying for the travel arrangements;
 * making real efforts to promote diversity.
+
+## Keep in mind that...
+* I can give more than one talk if you want to maximize your budget;
+* I can give talks in French, but I prefer to deliver them in English;
+* I'll be more than happy to mentor other speakers;
+* My talks are all 45 minutes long, but I can adapt the content to any shorter time I have on the schedule.
