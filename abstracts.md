@@ -2,6 +2,7 @@
 
 List of talks I can give (I will gladly create a new one for your event):
 - [Mental Health](#mental-health)
+- [npm](#npm)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
@@ -14,6 +15,11 @@ _Note that I'm slowly adding them here so it's not a complete list._
 ## Mental Health
 ### Don't .gitignore mental health
 Depression, suicide, and anxiety are some of the words that most of us would like to add to our ignore file. Discussing mental health is still taboo in our society and even more so in the developer ecosystem, where we pride ourselves on working long hours and our lack of sleep. We need to talk about mental health more than ever! This is why I want to share my experience with depression and my view on how we can improve the situation, as well as some tips to help people be more open and be able to ask for help when they need it.
+
+
+## npm
+### npx and friends: tips and tricks while using npm  
+If you are developing JavaScript, there’s a good chance that you use npm as your main package manager. If you’re like me, "npm install" is probably the only command you’re using. However, the npm CLI toolset is much more powerful and useful than I thought. In this talk, I'll share some tips on how to get the most out of npm and introduce some new tools, like npx or audit.
 
 
 ## Open Source
