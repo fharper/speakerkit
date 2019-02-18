@@ -4,6 +4,7 @@ My public speaking kit for the event’s organizers.
 - [Abstracts](abstracts.md)
 - [Requirements](#requirements) (read this before contacting me please)
 - [Prioritization](#prioritization)
+- [Keep in mind](#keep-in-mind-that)
 - [Personal informations](personalinfo.md)
 - [Biography](biography.md)
 - [Pictures](pictures/)
