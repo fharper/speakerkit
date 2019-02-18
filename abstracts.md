@@ -7,6 +7,7 @@ List of talks I can give (I will gladly create a new one for your event):
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
 - [Ruby](#ruby)
+- [Security](#security)
 - [Web](#web)
 
 _Note that I'm slowly adding them here so it's not a complete list._
@@ -43,6 +44,11 @@ Do you have a passion? Do you like to share with others? Public speaking can hel
 ## Ruby
 ### No way ruby Programmers can't use this package Manager
 I guess you never thought about using the gem of a tool (pun intended) that is npm. You write some JavaScript code, don’t you? Why not extend the power of Rubygems and make you life easier? Let me show you how to put your development environment on steroids using this open source tool and the endless collection of packages within the Registry.
+
+
+## Security
+### I care about security! I use SSL...  
+If you were to ask me if security is important for me, my answer will definitely be a "YES". However, if you ask me what I do to make my projects more secure, my answer may not be as confident as the previous one. It would probably sound something like, "Oh, I... hummm... aaa, use SSL?" and let's be honest here, it's probably the kind of answer most of developers would give. Today is the day you start to think about security as part of your development process instead of an afterthought. I'll share with you some easy tips you can use right now to ensure your masterpiece will be more secure.
 
 
 ## Web
