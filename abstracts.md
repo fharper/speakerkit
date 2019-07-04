@@ -2,12 +2,9 @@
 
 List of talks I can give (I will gladly create a new one for your event):
 - [Mental Health](#mental-health)
-- [npm](#npm)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
-- [Ruby](#ruby)
-- [Security](#security)
 - [Web](#web)
 
 _Note that I'm slowly adding them here so it's not a complete list._
@@ -55,6 +52,10 @@ The idea is to help people to go past the frightening idea of public speaking, b
 ## Web
 ### Building web apps that don’t suck
 As developers, it's important to think about our users first: you need to create an awesome experience and part of the equation is to deliver quality, fast. Unfortunately, we lost the habit of being efficient with our code and assets, getting used, if you are lucky, to more and more power from our devices and internet connections. But our users want their data now. Waiting is painful, you know it! It's not an option anymore... Based on personal experience, this presentation is about concrete tips and tricks to help you optimize your masterpiece, using HTML, CSS, and JavaScript (most applicable to other languages).
+
+**Details**
+
+My most popular talks are the one that doesn’t try to reinvent the wheel, but help developers be better at what they do every day without having them to learn new tools or languages. So this talk is open to people who already know JavaScript and want to optimize their applications with simple, but efficient tricks. Let’s go back to basic: create great apps that give amazing experiences to our users!
 
 ### Magic: The GraphQL and API Gathering
 How can I query multiple APIs and databases with a language that is easy, efficient and flexible but still care about structured data? I thought you would never ask! GraphQL my friends, GraphQL is the answer! Speed, efficiency and data structure are the foundation of this open source runtime and query language that you probably have heard of. In this talk, you’ll learn more about the pros and cons of this technology, how to deploy it in the cloud and how to make some magic with it. You don’t want to miss that...
