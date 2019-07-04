@@ -1,6 +1,7 @@
 # Abstracts
 
 List of talks I can give (I will gladly create a new one for your event):
+- [Cloud](#cloud)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
@@ -8,6 +9,11 @@ List of talks I can give (I will gladly create a new one for your event):
 - [Web](#web)
 
 _Note that I'm slowly adding them here so it's not a complete list._
+
+
+## Cloud
+### What the hell is Kubernetes?
+The cloud is everywhere, we can't deny it anymore! Which means that you may have heard the word Kubernetes or for its close friends, k8s? Maybe the term cloud-native sounds like a new teenage music group to you? Don't panic cause in this talk, together, we'll explore the what, why and how of containerization of your applications (or services) and the benefits of using Kubernetes to orchestrate your new masterpiece. Don't be the old man (or woman) yelling at the clouds, and join the club of flexibility, power, and reliability with containers.
 
 
 ## Mental Health
