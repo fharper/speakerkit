@@ -32,6 +32,9 @@ Why should you care about your personal brand? After all, it’s not like you ar
 ### Public Speaking? It’s for you!
 Do you have a passion? Do you like to share with others? Public speaking can help you share this passion with others  in your industry and help them  find success. But let's be honest: you'll get a lot out of it too. You'll learn from attendees, grow your network, get visibility, and much more in return for your efforts. Let's explore how you can start getting comfortable with public speaking and how you can find opportunities to reach the perfect audience. Who knows, you could be the one speaking on this stage next time!
 
+**Details**
+
+The idea is to help people to go past the frightening idea of public speaking, but even more to let attendees know that they all can do it. We all had the imposter syndrome when we gave our first talk, and look at me, I gave more than 100 in the past and still love it!
 
 ## Web
 ### Building web apps that don’t suck
@@ -40,6 +43,6 @@ As developers, it's important to think about our users first: you need to create
 ### Magic: The GraphQL and API Gathering
 How can I query multiple APIs and databases with a language that is easy, efficient and flexible but still care about structured data? I thought you would never ask! GraphQL my friends, GraphQL is the answer! Speed, efficiency and data structure are the foundation of this open source runtime and query language that you probably have heard of. In this talk, you’ll learn more about the pros and cons of this technology, how to deploy it in the cloud and how to make some magic with it. You don’t want to miss that...
 
-**Goal**
+**Details**
 
 GraphQL has been open source for a couple of years, but the adoption is spiking only since the last two years. It's still an unknown technology that anyone, no matter the programming language, can benefit from. It's also a talk that is targeted to anyone using APIs or databases, which is almost anyone, no matter their level of expertise. It's also a technology that won't fade away and prove its value.
