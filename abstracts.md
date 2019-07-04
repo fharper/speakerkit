@@ -17,6 +17,17 @@ _Note that I'm slowly adding them here so it's not a complete list._
 ### Don't .gitignore mental health
 Depression, suicide, and anxiety are some of the words that most of us would like to add to our ignore file. Discussing mental health is still taboo in our society and even more so in the developer ecosystem, where we pride ourselves on working long hours and our lack of sleep. We need to talk about mental health more than ever! This is why I want to share my experience with depression and my view on how we can improve the situation, as well as some tips to help people be more open and be able to ask for help when they need it.
 
+**Details**
+
+I want people to get out of this talk with four specific things:
+1. Being a little more comfortable to speak and discuss about mental health.
+2. Have tricks on how to prevent depression and burnout.
+3. Being able to identify some signs of colleagues or friends who aren't going well
+4. Knowing what to do and where to find help if you are having a difficult time and suicidal ideas.
+
+It's not an easy topic, but I'm glad you have a track dedicated to self-care... I've done a major depression in 2015, and still struggling with it to this day. Still, I was able to find help, and strategies to help me go forward, and you can consider I have a successful professional and personal life, even if I'm still fighting my demons. I'm also really public about it, so talking about the topic and my experience isn't an issue for me.
+
+To be honest, if one, only one person goes out from this talk and decides to ask for help, I'll consider myself successful!
 
 ## Open Source
 ### How to become an open source contributor in 10 steps
