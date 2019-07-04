@@ -18,17 +18,6 @@ _Note that I'm slowly adding them here so it's not a complete list._
 Depression, suicide, and anxiety are some of the words that most of us would like to add to our ignore file. Discussing mental health is still taboo in our society and even more so in the developer ecosystem, where we pride ourselves on working long hours and our lack of sleep. We need to talk about mental health more than ever! This is why I want to share my experience with depression and my view on how we can improve the situation, as well as some tips to help people be more open and be able to ask for help when they need it.
 
 
-## npm
-### How the heck does npm work?  
-When I started working at npm I was already an npm user, but it was kind of a black box for me. It felt like driving a car without knowing what is happening under the hood. Since that day, I learned more about the architecture and understood the magic happening behind commands like "npm install". I found it interesting to learn more about a tool I use daily and it helped me see the impact it has on my work. It also opened the door to find little bits of awesomeness I didn't know about, which I thought I should share with you! This talk will be a crash course of the core concepts of the CLI and some of the most used commands. It won’t make you a mechanic, but you’ll know how to diagnose your car issues.
-
-### npx and friends: tips and tricks while using npm  
-If you are developing JavaScript, there’s a good chance that you use npm as your main package manager. If you’re like me, "npm install" is probably the only command you’re using. However, the npm CLI toolset is much more powerful and useful than I thought. In this talk, I'll share some tips on how to get the most out of npm and introduce some new tools, like npx or audit.
-
-### Publishing your first npm package  
-Are you using open source software (OSS) daily? Is npm or yarn your main package manager? If you answered yes to both questions, let me introduce you to the amazing world of package publishing. Now is the time for you to give back to the community by sharing your libraries and pieces of JavaScript code that could help others be successful. In this talk, I'll get you started to the journey of becoming an OSS contributor.
-
-
 ## Open Source
 ### How to become an open source contributor in 10 steps
 Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input?? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
@@ -42,16 +31,6 @@ Why should you care about your personal brand? After all, it’s not like you ar
 ## Public Speaking
 ### Public Speaking? It’s for you!
 Do you have a passion? Do you like to share with others? Public speaking can help you share this passion with others  in your industry and help them  find success. But let's be honest: you'll get a lot out of it too. You'll learn from attendees, grow your network, get visibility, and much more in return for your efforts. Let's explore how you can start getting comfortable with public speaking and how you can find opportunities to reach the perfect audience. Who knows, you could be the one speaking on this stage next time!
-
-
-## Ruby
-### No way ruby Programmers can't use this package Manager
-I guess you never thought about using the gem of a tool (pun intended) that is npm. You write some JavaScript code, don’t you? Why not extend the power of Rubygems and make you life easier? Let me show you how to put your development environment on steroids using this open source tool and the endless collection of packages within the Registry.
-
-
-## Security
-### I care about security! I use SSL...  
-If you were to ask me if security is important for me, my answer will definitely be a "YES". However, if you ask me what I do to make my projects more secure, my answer may not be as confident as the previous one. It would probably sound something like, "Oh, I... hummm... aaa, use SSL?" and let's be honest here, it's probably the kind of answer most of developers would give. Today is the day you start to think about security as part of your development process instead of an afterthought. I'll share with you some easy tips you can use right now to ensure your masterpiece will be more secure.
 
 
 ## Web
