@@ -12,6 +12,9 @@ _Note that I'm slowly adding them here so it's not a complete list._
 
 
 ## Cloud
+### Code your cloud architecture
+Building efficient and replicable cloud environments can be extremely challenging. The dashboard you are using to manage your infrastructure may be well designed and intuitive but it is often confusing with too many options that don't translate into a great experience. So why not do what we do best—write code. Terraform is your infrastructure as code which enables us to define and configure our architecture while making it easier to collaborate and automate the process. In this talk you’ll learn how to create virtual machines, load balancers, objects storage and configure your software stack, all with Terraform.
+
 ### What the hell is Kubernetes?
 The cloud is everywhere, we can't deny it anymore! Which means that you may have heard the word Kubernetes or for its close friends, k8s? Maybe the term cloud-native sounds like a new teenage music group to you? Don't panic cause in this talk, together, we'll explore the what, why and how of containerization of your applications (or services) and the benefits of using Kubernetes to orchestrate your new masterpiece. Don't be the old man (or woman) yelling at the clouds, and join the club of flexibility, power, and reliability with containers.
 
