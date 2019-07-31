@@ -10,7 +10,7 @@ If you need anything else, please send me an email.
 
 **Company website:** <https://digitalocean.com>
 
-**Company Twitter:** [@npmjs](https://twitter.com/digitalocean)
+**Company Twitter:** [@digitalocean](https://twitter.com/digitalocean)
 
 **Job title:** Senior Developer Advocate
 
