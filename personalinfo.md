@@ -4,22 +4,22 @@ If you need anything else, please send me an email.
 
 **Name:** Frédéric Harper
 
-**Email:** [fharper@npmjs.com](mailto:fharper@npmjs.com)
+**Email:** [fharper@digitalocean.com](mailto:fharper@digitalocean.com)
 
-**Company:** npm, Inc.
+**Company:** DigitalOcean
 
-**Company website:** <https://www.npmjs.com/>
+**Company website:** <https://digitalocean.com>
 
-**Company Twitter:** [@npmjs](https://twitter.com/npmjs)
+**Company Twitter:** [@npmjs](https://twitter.com/digitalocean)
 
 **Job title:** Senior Developer Advocate
 
 **Languages:** English & French
 
-**Website:** https://outofcomfortzone.net/
+**Website:** https://fred.dev
 
 **Twitter:** [@fharper](https://twitter.com/fharper)
 
-**LinkedIn:** <https://www.linkedin.com/in/fredericharper/>
+**LinkedIn:** <https://www.linkedin.com/in/fredericharper>
 
 **Location:** Montréal, Canada
