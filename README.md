@@ -30,7 +30,7 @@ I will prioritize events that are
 
 ## Keep in mind that...
 * I can give more than one talk if you want to maximize your budget;
-* I can give talks in French, but I prefer to deliver them in English;
+* French is my first language, but I only deliver talks in English;
 * I'll be more than happy to mentor other speakers;
 * My talks are all 45 minutes long (unless specified), but I can adapt the content to any shorter time I have on the schedule.
 * I am not the one who make decision about sponsorship at DigitalOcean (feel free to make a request).
