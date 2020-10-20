@@ -23,6 +23,11 @@ The cloud is everywhere, we can't deny it anymore! Which means that you may have
 
 
 ## Mental Health
+### You Don't Need to Be a Buddhist to Meditate
+
+Buddhism aside, meditation is a practice that is more and more popular in the western world. For a reason, consistency on meditating, even for five short minutes a day, brings a lot of benefits. I am, in fact, the living proof of that. Let me share with you why you should pause your life for a moment to train your attention and awareness. No need for special cushions or burning incense: you'll learn how to start meditating today.
+
+
 ### Don't .gitignore mental health
 Depression, suicide, and anxiety are some of the words that most of us would like to add to our ignore file. Discussing mental health is still taboo in our society and even more so in the developer ecosystem, where we pride ourselves on working long hours and our lack of sleep. We need to talk about mental health more than ever! This is why I want to share my experience with depression and my view on how we can improve the situation, as well as some tips to help people be more open and be able to ask for help when they need it.
 
