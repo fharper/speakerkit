@@ -34,7 +34,7 @@ I want people to get out of this talk with four specific things:
 3. Being able to identify some signs of colleagues or friends who aren't going well
 4. Knowing what to do and where to find help if you are having a difficult time and suicidal ideas.
 
-It's not an easy topic, but I'm glad you have a track dedicated to self-care... I've done a major depression in 2015, and still struggling with it to this day. Still, I was able to find help, and strategies to help me go forward, and you can consider I have a successful professional and personal life, even if I'm still fighting my demons. I'm also really public about it, so talking about the topic and my experience isn't an issue for me.
+It's not an easy topic... I've done a major depression in 2015, and still struggling with it to this day. Still, I was able to find help, and strategies to help me go forward, and you can consider I have a successful professional and personal life, even if I'm still fighting my demons. I'm also really public about it and I'm a public speaker by profession, so talking about the topic and my experience isn't an issue for me.
 
 To be honest, if one, only one person goes out from this talk and decides to ask for help, I'll consider myself successful!
 
