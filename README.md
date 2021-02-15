@@ -20,6 +20,7 @@ If you want me to speak at your event, here is a list of requirements before con
 * You want me to speak at your event because you find my content valuable for your attendees, not because you want my employer to sponsor your event;
 * You let me use my computer ([MacBook Air 2018](https://support.apple.com/kb/SP783?viewlocale=en_US&locale=en_US) - USB C, VGA & HDMI adapters) and my clicker (remote presenter);
 * You don't ask for talk materials in advance (unless there are live translations). I will gladly give my slides and code examples for you to share after my talk.
+* I can't use your template since I don't use PowerPoint. Even if I could, I wouldn't since it never works with my style of slides and my slides are part of the experience I give to the attendees.
 
 ## Prioritization
 I will prioritize events that are
