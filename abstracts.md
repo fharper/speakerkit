@@ -1,7 +1,6 @@
 # Abstracts
 
 List of talks I can give (I will gladly create a new one for your event):
-- [Cloud](#cloud)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
@@ -11,20 +10,9 @@ List of talks I can give (I will gladly create a new one for your event):
 _Note that I'm slowly adding them here so it's not a complete list._
 
 
-## Cloud
-### Code your cloud architecture
-Building efficient and replicable cloud environments can be extremely challenging. The dashboard you are using to manage your infrastructure may be well designed and intuitive but it is often confusing with too many options that don't translate into a great experience. So why not do what we do best—write code. Terraform is your infrastructure as code which enables us to define and configure our architecture while making it easier to collaborate and automate the process. In this talk you’ll learn how to create virtual machines, load balancers, objects storage and configure your software stack, all with Terraform.
-
-### Getting Started with Containers and Kubernetes
-In the past decade, containerized applications and container clusters have rapidly replaced the old paradigm of scaling applications using virtual machines. Containers offer the same process isolation, but are generally more lightweight, portable, and performant than full virtualization. Container clusters, which can be used to manage thousands of running containers across a set of physical machines, abstract away much of the work of rolling out new versions of applications, scaling them, and efficiently scheduling workloads. Out of these, Kubernetes has emerged as a mature, production-ready system. It provides a rich set of features like rolling deployments, health checking, self-monitoring, workload autoscaling, and much, much more. This talk will show you how to harness these technologies and deploy a “Hello World” app using container and Kubernetes cluster.
-
-### What the hell is Kubernetes?
-The cloud is everywhere, we can't deny it anymore! Which means that you may have heard the word Kubernetes or for its close friends, k8s? Maybe the term cloud-native sounds like a new teenage music group to you? Don't panic cause in this talk, together, we'll explore the what, why and how of containerization of your applications (or services) and the benefits of using Kubernetes to orchestrate your new masterpiece. Don't be the old man (or woman) yelling at the clouds, and join the club of flexibility, power, and reliability with containers.
-
-
 ## Mental Health
-### You Don't Need to Be a Buddhist to Meditate
 
+### You Don't Need to Be a Buddhist to Meditate
 Buddhism aside, meditation is a practice that is more and more popular in the western world. For a reason, consistency on meditating, even for five short minutes a day, brings a lot of benefits. I am, in fact, the living proof of that. Let me share with you why you should pause your life for a moment to train your attention and awareness. No need for special cushions or burning incense: you'll learn how to start meditating today.
 
 
@@ -65,18 +53,3 @@ Do you have a passion? Do you like to share with others? Public speaking can hel
 **Details**
 
 The idea is to help people to go past the frightening idea of public speaking, but even more to let attendees know that they all can do it. We all had the imposter syndrome when we gave our first talk, and look at me, I gave more than 100 in the past and still love it!
-
-## Web
-### Building web apps that don’t suck
-As developers, it's important to think about our users first: you need to create an awesome experience and part of the equation is to deliver quality, fast. Unfortunately, we lost the habit of being efficient with our code and assets, getting used, if you are lucky, to more and more power from our devices and internet connections. But our users want their data now. Waiting is painful, you know it! It's not an option anymore... Based on personal experience, this presentation is about concrete tips and tricks to help you optimize your masterpiece, using HTML, CSS, and JavaScript (most applicable to other languages).
-
-**Details**
-
-My most popular talks are the one that doesn’t try to reinvent the wheel, but help developers be better at what they do every day without having them to learn new tools or languages. So this talk is open to people who already know JavaScript and want to optimize their applications with simple, but efficient tricks. Let’s go back to basic: create great apps that give amazing experiences to our users!
-
-### Magic: The GraphQL and API Gathering
-How can I query multiple APIs and databases with a language that is easy, efficient and flexible but still care about structured data? I thought you would never ask! GraphQL my friends, GraphQL is the answer! Speed, efficiency and data structure are the foundation of this open source runtime and query language that you probably have heard of. In this talk, you’ll learn more about the pros and cons of this technology, how to deploy it in the cloud and how to make some magic with it. You don’t want to miss that...
-
-**Details**
-
-GraphQL has been open source for a couple of years, but the adoption is spiking only since the last two years. It's still an unknown technology that anyone, no matter the programming language, can benefit from. It's also a talk that is targeted to anyone using APIs or databases, which is almost anyone, no matter their level of expertise. It's also a technology that won't fade away and prove its value.
