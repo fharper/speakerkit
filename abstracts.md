@@ -3,6 +3,7 @@
 List of talks I can give (I will gladly create a new one for your event):
 
 - [Documentation](#documentation)
+- [Low-Code / No-Code](#low-code---no-code)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
@@ -17,6 +18,18 @@ _Note that I'm slowly adding them here so it's not a complete list._
 You can have the best product in your expertise area, but if your documentation isn’t on par with the flawless experience you want to offer to the world, success is not guaranteed. Let’s be real here: documentation is often an afterthought and rarely included in life cycle development processes. Still, documentation is the secret weapon for greater adoption, and growth that you may have not known you could achieve.
 
 It’s time for you to step up your game and measure up to the big players. Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
+
+## Low-Code / No-Code
+
+### Low-Code and No-Code: a Developer Superpower
+
+Once upon a time, a developer read an article about these low-code and no-code concepts. The developer wasn’t quite sure of the benefits, if any, of those new paradigms. It is, after all, his job to create applications, and he is pretty good at it!
+
+“Why would someone limit themselves to a pre, or mostly already defined approach”, the developer asked himself! But one day, the developer woke up, agitated by a dream. “Was this real? Is this really possible? Maybe the low and no-code approaches aren’t that bad after all…”. But what was that dream? What makes him change his mind?
+
+#### Details
+
+This session will dive into the value of leveraging low-code and no-code, and the specific benefits seasoned developers gain from this approach. Navigate this “dream” with us, as we go beyond the ease of use, from customization to testing capabilities and today’s sought-after productivity boost. We will dive into specific examples of use cases that will help demystify the value of low-code, no-code as a business strategy.
 
 ## Mental Health
 
