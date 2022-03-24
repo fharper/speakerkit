@@ -2,13 +2,21 @@
 
 List of talks I can give (I will gladly create a new one for your event):
 
+- [Documentation](#documentation)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
-- [Web](#web)
 
 _Note that I'm slowly adding them here so it's not a complete list._
+
+## Documentation
+
+### Developers Documentation: your secret weapon
+
+You can have the best product in your expertise area, but if your documentation isn’t on par with the flawless experience you want to offer to the world, success is not guaranteed. Let’s be real here: documentation is often an afterthought and rarely included in life cycle development processes. Still, documentation is the secret weapon for greater adoption, and growth that you may have not known you could achieve.
+
+It’s time for you to step up your game and measure up to the big players. Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
 
 ## Mental Health
 
