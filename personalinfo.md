@@ -1,18 +1,18 @@
-## Personal Informations
+# Personal Informations
 
 If you need anything else, please send me an email.
 
 **Name:** Frédéric Harper
 
-**Email:** [fharper@digitalocean.com](mailto:fharper@digitalocean.com)
+**Email:** [fred@mindee.co](mailto:fred@mindee.co)
 
-**Company:** DigitalOcean
+**Company:** Mindee
 
-**Company website:** <https://digitalocean.com>
+**Company website:** <https://mindee.com>
 
-**Company Twitter:** [@digitalocean](https://twitter.com/digitalocean)
+**Company Twitter:** [@mindeeAPI](https://twitter.com/mindeeAPI)
 
-**Job title:** Senior Developer Advocate
+**Job title:** Director of Developer Relations
 
 **Languages:** English & French
 
