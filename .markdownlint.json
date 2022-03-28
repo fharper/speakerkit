@@ -1,5 +1,12 @@
 {
 	"MD013": false,
 	"MD024": false,
-	"MD026": false
+	"MD026": false,
+	"MD034": false,
+	"MD049": {
+		"style": "underscore"
+	},
+	"MD050": {
+		"style": "asterisk"
+	}
 }
