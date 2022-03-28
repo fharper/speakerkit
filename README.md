@@ -21,6 +21,7 @@ If you want me to speak at your event, here is a list of requirements before con
 * You let me use my computer (MacBook Pro 2020 - USB C, I have VGA & HDMI adapters) and my clicker (remote presenter);
 * You don't ask for talk materials in advance (unless there are live translations). I will gladly give my slides and code examples for you to share after my talk.
 * I can't use your template since I don't use PowerPoint. Even if I could, I wouldn't since it never works with my style of slides and my slides are part of the experience I give to the attendees.
+* For flights greated than four hours, I require premium economy or business class tickets.
 
 ## Prioritization
 I will prioritize events that are
