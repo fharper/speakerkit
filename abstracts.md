@@ -64,6 +64,10 @@ It's not an easy topic... I've done a major depression in 2015, and still strugg
 
 To be honest, if one, only one person goes out from this talk and decides to ask for help, I'll consider myself successful!
 
+#### Tweet
+
+Discussing mental health is still taboo in the developer world, where working long hours & lack of sleep are badges of honor. Don't .gitignore mental health is the message @fharper is sharing! Come learn how to be more open about it, for yourself & other 💜
+
 ## Open Source
 
 ### Go from “Paper” to Usable Data in Minutes with Python, OSS & Deep Learning
