@@ -19,6 +19,12 @@ You can have the best product in your expertise area, but if your documentation 
 
 It’s time for you to step up your game and measure up to the big players. Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
 
+#### Tweet
+
+🎶 My Tech Docs Bring All the Devs to the Yard 🎶
+
+It’s time for you to step up your game & unleash your secret weapon: a high quality technical documentation that will bring value to your users by really educating them. Learn how with @fharper!
+
 ## Low-Code / No-Code
 
 ### Low-Code and No-Code: a Developer Superpower
