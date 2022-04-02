@@ -80,7 +80,7 @@ In this talk, I intend to demonstrate how easy it is to extract data from docume
 
 #### Tweet
 
-Come learn some Python wizardry (also known as #DeepLearning) with @fharper and go from “paper” to digital text recognition in minutes
+Come learn some #Python #DeepLearning with @fharper & go from “paper” to digital text recognition in minutes with #OSS, @PyTorch & @TensorFlow 🤯🎉
 
 ### How to become an open source contributor in 10 steps
 
