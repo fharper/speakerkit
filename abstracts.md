@@ -2,6 +2,7 @@
 
 List of talks I can give (I will gladly create a new one for your event):
 
+- [Developer Relations](#developer-relations)
 - [Documentation](#documentation)
 - [Low-Code / No-Code](#low-code---no-code)
 - [Mental Health](#mental-health)
@@ -10,6 +11,14 @@ List of talks I can give (I will gladly create a new one for your event):
 - [Public Speaking](#public-speaking)
 
 _Note that I'm slowly adding them here so it's not a complete list._
+
+## Developer Relations
+
+### It’s a developers world: creating a developer relations culture
+
+Historically, developers only engaged behind the scenes by creating softwares. However, today, their role is evolving. They are steadily winning seats at the table, providing a bigger vision for the business, and taking the world by storm.
+
+In this session, we will focus on the traits needed to create and cultivate a collaborative and inclusive culture specially geared toward developers. Beyond the technicalities of the job, and beyond the size of your team, we’ll dig into the benefits of building a trust-based relationship with the developer community and its intrinsic role in the overall value of your products and business. From writing documentation to providing a space for your community to grow, and building a feedback mechanism, we’ll walk through the benefits, and steps needed to embrace an authentic and measurable DevRel Program.
 
 ## Documentation
 
