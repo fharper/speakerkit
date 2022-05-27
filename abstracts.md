@@ -28,6 +28,14 @@ You can have the best product in your expertise area, but if your documentation 
 
 It’s time for you to step up your game and measure up to the big players. Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
 
+#### Outline
+
+This talk is divided in three main acts, mainly focusing on tips, tricks and interesting examples to unleash your secret weapon, your developers documentation:
+
+- First, I explore the unknown and something underevaluated benefits of an amazing documentation for developers. In other words, the benefits and possible return on investment of listening to this talk.
+- Secondly, I focus on the content part of the documentation: the obvious important part of the documentation, but quite often neglected, which result in a poor experience for the users and customers.
+- Lastly, before encouraging attendees to take their developers documentation to the next level, I explore the container part of a successful documentation.
+
 #### Tweet
 
 🎶 My Tech Docs Bring All the Devs to the Yard 🎶
