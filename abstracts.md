@@ -87,18 +87,6 @@ Discussing mental health is still taboo in the developer world, where working lo
 
 ## Open Source
 
-### Go from “Paper” to Usable Data in Minutes with Python, OSS & Deep Learning
-
-We live in a data-driven world - there’s no arguing about that. Meaning we, as developers, need to integrate different data sources into our applications. And as we know, dealing with those can be complex, especially if you want to do it well by extracting specific key information. Fear not, my friends, as I’ll walk you through the process of using docTR, an open-source document text extraction library using the deep learning power of PyTorch and TensorFlow.
-
-#### Details
-
-In this talk, I intend to demonstrate how easy it is to extract data from documents (such as PDFs) by using an open-source tool powered by PyTorch or TensorFlow. I will also introduce the concepts of deep/machine learning and computer vision to people who are unfamiliar with these terms. It will be an equal mix of slides with some fun theory (yes, it can be fun to talk about deep learning, trust me) and some coding/demos.
-
-#### Tweet
-
-Come learn some #Python #DeepLearning with @fharper & go from “paper” to digital text recognition in minutes with #OSS, @PyTorch & @TensorFlow 🤯🎉
-
 ### How to become an open source contributor in 10 steps
 
 Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input?? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
