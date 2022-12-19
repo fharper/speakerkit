@@ -2,14 +2,14 @@
 
 No modifications are allowed, including truncation of longer versions.
 
-## English - full version (92 words - 556 characters)
+## English - full version (81 words - 538 characters)
 
-As the Director of Developer Relations at Mindee, I helps developers merge the physical and digital worlds using the magic of machine learning coupled with the ease of APIs. I had shared my passion for technology on the stage at dozens of events around the world. I helped build successful communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit, and am the author of the book Personal Branding for Developers at Apress. Behind this extrovert that I am, is a very passionate individual who believes in the power of communication... and cat videos.
+As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit. He is also the author of the book Personal Branding for Developers at Apress. Behind this extrovert is a very passionate individual who believes in the power of communication... and cat videos.
 
-## English - medium size (55 words - 356 characters)
+## English - medium size (49 words - 345 characters)
 
-As the Director of Developer Relations at Mindee, Frédéric Harper helps developers merge the physical and digital worlds using the magic of machine learning coupled with the ease of APIs. He’s helped build successful communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit, and is the author of the book Personal Branding for Developers at Apress.
+As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit.
 
-## English - tweet size version (18 words - 127 characters)
+## English - tweet size version (17 words - 127 characters)
 
-Director of Developer Relations @ Mindee, ex npm, Mozilla, Microsoft, DigitalOcean & Fitbit, Apress author, #crazycatman & more
+Principal Developer Advocate @ Kubefirst, ex npm, Mozilla, Microsoft, DigitalOcean & Fitbit, Apress author, #crazycatman & more
