@@ -15,6 +15,12 @@ _Note that I'm slowly adding them here so it's not a complete list._
 
 ## Cloud
 
+### Adopt Kubernetes Easily With Kubefirst, an Open Source GitOps Platform
+
+Ever hear someone say that Kubernetes is not complicated. It makes my head spin every time! Like with any new platform, there is a learning curve, and as with any other technology, the more experience you have, the better you become. Still, I feel like Kubernetes (K8s for close friends) introduce a lot of new concepts that were unfamiliar to us. There are also a lot of moving pieces which make the time to digest it all, longer than previous technology we’ve learned. Don’t get me wrong, it makes sense since we are talking about a powerful platform that can scale container orchestration from a mom & pop shop, to a Google ecosystem size-wise.
+
+Getting started is not a piece of cake, and Kubefirst, a free and open source tool, comes to the rescue. It provides a fully automated application delivery and infrastructure management GitOps platform which does the hard work for you, while setting you up for success with the best cloud native tools: all that with a single command. In this talk we will cover the pros and cons of Kubefirst, while giving you everything you need to get started with your very own Kubernetes deployment in a breeze.
+
 ### What the Heck Is Kubernetes
 
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
