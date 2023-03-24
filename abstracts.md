@@ -5,7 +5,7 @@ List of talks I can give (I will gladly create a new one for your event):
 - [Cloud](#cloud)
 - [Developer Relations](#developer-relations)
 - [Documentation](#documentation)
-- [Low-Code / No-Code](#low-code---no-code)
+- [Low-Code / No-Code](#low-code--no-code)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
