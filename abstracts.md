@@ -1,6 +1,6 @@
 # Abstracts
 
-List of talks I can give (I will gladly create a new one for your event):
+I'm always looking to give new talks, so let me know if there is a specific topic you would like to have at your event, and if I have the knowledge (and interest), to share about it, I'll be more than happy to create it. You can also pick from the following talks, which are either new talk I never gave, or ones I still want to present.
 
 - [Cloud](#cloud)
 - [Developer Relations](#developer-relations)
@@ -17,7 +17,7 @@ _Note that I'm slowly adding them here so it's not a complete list._
 
 ### Adopt Kubernetes Easily With Kubefirst, an Open Source GitOps Platform
 
-Ever hear someone say that Kubernetes is not complicated. It makes my head spin every time! Like with any new platform, there is a learning curve, and as with any other technology, the more experience you have, the better you become. Still, I feel like Kubernetes (K8s for close friends) introduce a lot of new concepts that were unfamiliar to us. There are also a lot of moving pieces which make the time to digest it all, longer than previous technology we’ve learned. Don’t get me wrong, it makes sense since we are talking about a powerful platform that can scale container orchestration from a mom & pop shop, to a Google ecosystem size-wise.
+Ever hear someone say that Kubernetes is not complicated. It makes my head spin every time! Like with any new platform, there is a learning curve, and as with any other technology, the more experience you have, the better you become. Still, I feel like Kubernetes (K8s for close friends) introduce a lot of new concepts that were unfamiliar to us. There are also a lot of moving pieces which make the time to digest it all, longer than previous technologies we’ve learned. Don’t get me wrong, it makes sense since we are talking about a powerful platform that can scale container orchestration from a mom & pop shop, to a Google ecosystem size-wise.
 
 Getting started is not a piece of cake, and Kubefirst, a free and open source tool, comes to the rescue. It provides a fully automated application delivery and infrastructure management GitOps platform which does the hard work for you, while setting you up for success with the best cloud native tools: all that with a single command. In this talk we will cover the pros and cons of Kubefirst, while giving you everything you need to get started with your very own Kubernetes deployment in a breeze.
 
@@ -35,7 +35,7 @@ Ever wonder what that fuss is all about! Is this just a new technology that will
 
 Developer Relations is all about helping developers be successful. Truth be told, it is essential to connect with your developer audience; the survival of your product and company depends on it.  With growing expertise in this field, and more companies adopting a developer success approach, one problem remains: how do you measure success? Which metrics should you consider, and what Key Performance Indicator one should monitor? How do you listen to your community to ensure you are going in the right direction? What systems should you  put in place to help you scale, and be successful? We’ll answer those questions, and much more during this talk.
 
-### It’s a developers world: creating a developer relations culture
+### It’s a developers’ world: creating a developer relations culture
 
 Historically, developers only engaged behind the scenes by creating softwares. However, today, their role is evolving. They are steadily winning seats at the table, providing a bigger vision for the business, and taking the world by storm.
 
@@ -54,7 +54,7 @@ It’s time for you to step up your game and measure up to the big players. Lear
 This talk is divided in three main acts, mainly focusing on tips, tricks and interesting examples to unleash your secret weapon, your developers documentation:
 
 - First, I explore the unknown and something underevaluated benefits of an amazing documentation for developers. In other words, the benefits and possible return on investment of listening to this talk.
-- Secondly, I focus on the content part of the documentation: the obvious important part of the documentation, but quite often neglected, which result in a poor experience for the users and customers.
+- Secondly, I focus on the content part of the documentation: obviously the most important part of the documentation, but quite often neglected, which result in a poor experience for the users and customers.
 - Lastly, before encouraging attendees to take their developers documentation to the next level, I explore the container part of a successful documentation.
 
 #### Tweet
@@ -69,7 +69,7 @@ It’s time for you to step up your game & unleash your secret weapon: a high qu
 
 Once upon a time, a developer read an article about these low-code and no-code concepts. The developer wasn’t quite sure of the benefits, if any, of those new paradigms. It is, after all, his job to create applications, and he is pretty good at it!
 
-“Why would someone limit themselves to a pre, or mostly already defined approach”, the developer asked himself! But one day, the developer woke up, agitated by a dream. “Was this real? Is this really possible? Maybe the low and no-code approaches aren’t that bad after all…”. But what was that dream? What makes him change his mind?
+“Why would someone limit themselves to a predefined, or mostly already defined approach”, the developer asked himself! But one day, the developer woke up, agitated by a dream. “Was this real? Is this really possible? Maybe the low and no-code approaches aren’t that bad after all…”. But what was that dream? What makes him change his mind?
 
 #### Details
 
@@ -110,11 +110,11 @@ Discussing mental health is still taboo in the developer world, where working lo
 
 ### How to become an open source contributor in 10 steps
 
-Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input?? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
+Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
 
 #### Details
 
-Open source is part of every developer's life these days: if it's not from your own, a library or framework you are probably using has some open building pieces. Still, it's a minimal part of our community that participate, so I want to help people understand the many ways they can start to be a contributor today, right after the talk. The secret sauce? It's not just about code. I'll base this on my personal experience working on OSS projects and for OSS companies.
+Open source is part of every developer's life these days: if it's not from your own, a library or framework you are probably using has some open building pieces. Still, it's a minimal part of our community that participate, so I want to help people understand the many ways they can start to be a contributor today, right after the talk. The secret sauce? It's not just about code. I'll base this on my experience working on OSS projects and for OSS companies.
 
 Contributing to a project in the open is often scary. I want to demystify this, lower down the barrier to entry and give some tips on how to start and be one of our technology heroes. Yes, the title is cheesy, but I guess those titles work: we all clicked on that article someone shared on Facebook!
 
