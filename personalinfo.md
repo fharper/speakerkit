@@ -1,22 +1,22 @@
-# Personal Informations
+# Personal Information
 
 If you need anything else, please send me an email.
 
 **Name:** Frédéric Harper
 
-**Email:** [fred@mindee.co](mailto:fred@mindee.co)
+**Email:** [hi@fred.dev](mailto:hi@fred.dev)
 
-**Company:** Mindee
+**Company:** Kubefirst
 
-**Company website:** <https://mindee.com>
+**Company website:** <https://kubefirst.io>
 
-**Company Twitter:** [@mindeeAPI](https://twitter.com/mindeeAPI)
+**Company Twitter:** [@kubefirst](https://twitter.com/kubefirst)
 
-**Job title:** Director of Developer Relations
+**Job title:** Principal Developer Advocate
 
 **Languages:** English & French
 
-**Website:** https://fred.dev
+**Website:** <https://fred.dev>
 
 **Twitter:** [@fharper](https://twitter.com/fharper)
 
