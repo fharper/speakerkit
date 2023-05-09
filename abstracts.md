@@ -37,7 +37,7 @@ Developer Relations is all about helping developers be successful. Truth be told
 
 ### It’s a developers’ world: creating a developer relations culture
 
-Historically, developers only engaged behind the scenes by creating softwares. However, today, their role is evolving. They are steadily winning seats at the table, providing a bigger vision for the business, and taking the world by storm.
+Historically, developers only engaged behind the scenes by creating software. However, today, their role is evolving. They are steadily winning seats at the table, providing a bigger vision for the business, and taking the world by storm.
 
 In this session, we will focus on the traits needed to create and cultivate a collaborative and inclusive culture specially geared toward developers. Beyond the technicalities of the job, and beyond the size of your team, we’ll dig into the benefits of building a trust-based relationship with the developer community and its intrinsic role in the overall value of your products and business. From writing documentation to providing a space for your community to grow, and building a feedback mechanism, we’ll walk through the benefits, and steps needed to embrace an authentic and measurable DevRel Program.
 
@@ -53,7 +53,7 @@ It’s time for you to step up your game and measure up to the big players. Lear
 
 This talk is divided in three main acts, mainly focusing on tips, tricks and interesting examples to unleash your secret weapon, your developers documentation:
 
-- First, I explore the unknown and something underevaluated benefits of an amazing documentation for developers. In other words, the benefits and possible return on investment of listening to this talk.
+- First, I explore the unknown and something undervalued benefits of an amazing documentation for developers. In other words, the benefits and possible return on investment of listening to this talk.
 - Secondly, I focus on the content part of the documentation: obviously the most important part of the documentation, but quite often neglected, which result in a poor experience for the users and customers.
 - Lastly, before encouraging attendees to take their developers documentation to the next level, I explore the container part of a successful documentation.
 
