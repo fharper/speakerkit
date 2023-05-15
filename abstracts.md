@@ -2,7 +2,7 @@
 
 I'm always looking to give new talks, so let me know if there is a specific topic you would like to have at your event, and if I have the knowledge (and interest), to share about it, I'll be more than happy to create it. You can also pick from the following talks, which are either new talk I never gave, or ones I still want to present.
 
-- [Cloud](#cloud)
+- [Cloud Native (Kubernetes, GitOps…)](#cloud-native-kubernetes-gitops)
 - [Developer Relations](#developer-relations)
 - [Documentation](#documentation)
 - [Low-Code / No-Code](#low-code--no-code)
@@ -11,9 +11,7 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
 
-_Note that I'm slowly adding them here so it's not a complete list._
-
-## Cloud
+## Cloud Native (Kubernetes, GitOps…)
 
 ### Adopt Kubernetes Easily With Kubefirst, an Open Source GitOps Platform
 
