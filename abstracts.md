@@ -38,9 +38,9 @@ The goal is to simplify these technologies, and share tips, best practices, and 
 As mentioned in the abstract, things like best practices around CI/CD, IaC, open source tools, and even GitOps principles like having a git repository as their source of truth, to establish better collaboration, a secure environment, lengthy traceability, and much more.
 
 The end goal is to:
+
 - help developers get started with containers & Kubernetes as easily, and quickly as possible.
 - help people who are already playing in the container, and cloud native space to be successful.
-
 
 ### What the Heck Is Kubernetes
 
