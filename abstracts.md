@@ -84,6 +84,22 @@ In this session, we will focus on the traits needed to create and cultivate a co
 
 I firmly believe you cannot have a sustainable Open Source business if you do not care about your community and the developers. What's best to help you in that area is a developer advocate, or a developer relations' team. I want to highlight how this role help you with that journey, and my hope is that participants, even if they don't have the resource to hire someone to do that specifically, they can take what make sense for them to improve their relationship with developers, and help them, as the company, to be successful. In the end, I always say that developer relations is everyone's business, not just DevRel...
 
+### The Secret Sauce for Building a Healthy Cloud Native Community
+
+Are you building a cloud native technology? Maybe you are thinking about creating a much-needed piece of software for the Kubernetes ecosystem? In both cases, no matter how extraordinary the masterpiece you are crafting is, it will be quite an achievement to be successful without a community. Whether your product is open source, proprietary, free, paid or a well-balanced mix of those, not fostering a developer, DevOps and or GitOps community can be a costly business mistake.
+
+In this session, we will explore the best practices, tips, and tricks drawn from the secret sauce behind any successful developer relations programs when it comes to community building. In the end, you’ll be equipped, no matter your role, to grow, and cultivate your very own healthy community where each side will find benefits.
+
+#### Details
+
+With this talk, I want to help anyone building for the cloud native ecosystem, that having, and fostering a healthy community is not optional anymore.
+
+Developers, DevOps or GitOps practitioners (me included), want to be part of something bigger than themselves. They want to fit in. They want to be heard. They want to create a relationship with a company, and see that there is a human side.
+
+There are also ample benefits on the business side in addition to ensuring you fill the needs of your users. The feedback loop becomes fluid. The growth, if done right, should be exponential, meaning more users, more paid customers, or clients investing more money in your platform.
+
+There are specific techniques to be successful when creating a cloud native community, and I intend to share the best practices to connect with a developer and technical audience, which should be approached with some guidelines in mind.
+
 ## Documentation
 
 ### Developers Documentation: your secret weapon
