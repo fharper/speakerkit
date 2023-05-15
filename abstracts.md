@@ -23,7 +23,28 @@ Getting started is not a piece of cake, and Kubefirst, a free and open source to
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
 
+### Moving to Kubernetes Without Losing Your Sanity
+
+Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? You read about it, explored this new adventure, and now you are daydreaming about the time you could simply deploy your application without having to think about clusters, pods, and Ingress Controllers. It was the Good Ol' Days, right?
+
+It might seem like it, but trust me, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices of taken from the DevOps space (i.e. Infrastructure as Code, Continuous Integration, Continuous Development), to the GitOps principles, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
+
+#### Details
+
+With this talk, I want to ease the pain that most developers had when they decided to move to Kubernetes.
+
+The goal is to simplify this technology, and share tips, best practices, and principles they should know to make their life easier.
+
+As mentioned in the abstract, things like best practices around CI, CD, IaC, open source tools, and GitOps principles like having a git repository as their source of truth, to establish better collaboration, a secure environment, lengthy traceability, and much more.
+
+The end goal is to:
+
+- help developers get started with Kubernetes as easily, and quickly as possible.
+- help people who are already playing in the container, and cloud native space to be successful.
+
 ### Moving to Kubernetes—And Containers—Without Losing Your Sanity
+
+> This is similar to the talk "Moving to Kubernetes Without Losing Your Sanity", with the addition of focusing on standard containerization of applications as in using tools like Docker or Podman.
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? Did you decide it was the end of the “it’s working on my machine” era by containerizing your application? You read about it, explored this new adventure, and now you are daydreaming about the time you could simply deploy your application without those new kids on the block. It was the Good Ol' Days, right?
 
