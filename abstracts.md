@@ -3,7 +3,7 @@
 I'm always looking to give new talks, so let me know if there is a specific topic you would like to have at your event, and if I have the knowledge (and interest), to share about it, I'll be more than happy to create it. You can also pick from the following talks, which are either new talk I never gave, or ones I still want to present.
 
 - [Cloud Native (Kubernetes, GitOps…)](#cloud-native-kubernetes-gitops)
-- [Developer Relations](#developer-relations)
+- [Developer Relations / Community Building](#developer-relations-community-building)
 - [Documentation](#documentation)
 - [Low-Code / No-Code](#low-code--no-code)
 - [Mental Health](#mental-health)
@@ -68,7 +68,7 @@ The end goal is to:
 
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
 
-## Developer Relations
+## Developer Relations / Community Building
 
 ### Developer Relations Through the Roof: Measuring Developer Success
 
