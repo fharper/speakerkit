@@ -10,6 +10,7 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
+- [Workshops](#workshops)
 
 ## Cloud Native (Kubernetes, GitOps…)
 
@@ -185,3 +186,9 @@ Do you have a passion? Do you like to share with others? Public speaking can hel
 #### Details
 
 The idea is to help people to go past the frightening idea of public speaking, but even more to let attendees know that they all can do it. We all had the imposter syndrome when we gave our first talk, and look at me, I gave more than 100 in the past and still love it!
+
+## Workshops
+
+### Kubefirst
+
+Ever hear someone say that Kubernetes is not complicated. It makes Frédéric Harper’s, Principal Developer Advocate at Kubefirst, head spin every time! Getting started is no piece of cake, so this is where, kubefirst, a free and open source tool, comes to the rescue. In this workshop, Fred will show you how to use our CLI to deploy a new Kubernetes cluster in minutes, with the most popular cloud native tools. We will install the CLI, deploy a new cluster locally using k3d & Docker, and we will explore its pieces. Since your new cluster is already fully functional, we will discuss the GitOps principles with your new "source of truth repository”, use Terraform with Atlantis, add a new user using HashiCorp Vault, surf the Argo CD sync waves, and master the magic steps to deploy a new application in the cloud. You can't miss this, we'll have some K8s fun!
