@@ -3,7 +3,7 @@
 I'm always looking to give new talks, so let me know if there is a specific topic you would like to have at your event, and if I have the knowledge (and interest), to share about it, I'll be more than happy to create it. You can also pick from the following talks, which are either new talk I never gave, or ones I still want to present.
 
 - [Cloud Native (Kubernetes, GitOps…)](#cloud-native-kubernetes-gitops)
-- [Developer Relations / Community Building](#developer-relations-community-building)
+- [Developer Relations / Community Building](#developer-relations--community-building)
 - [Documentation](#documentation)
 - [Low-Code / No-Code](#low-code--no-code)
 - [Mental Health](#mental-health)
