@@ -6,7 +6,7 @@ If you need anything else, please send me an email.
 
 **Email:** [hi@fred.dev](mailto:hi@fred.dev)
 
-**Company:** Kubefirst
+**Company:** kubefirst
 
 **Company website:** <https://kubefirst.io>
 
