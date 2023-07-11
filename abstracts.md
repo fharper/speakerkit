@@ -118,7 +118,9 @@ This talk is divided in three main acts, mainly focusing on tips, tricks and int
 
 #### Tweet
 
+<!-- vale off -->
 🎶 My Tech Docs Bring All the Devs to the Yard 🎶
+<!-- vale on -->
 
 It’s time for you to step up your game & unleash your secret weapon: a high quality technical documentation that will bring value to your users by really educating them. Learn how with @fharper!
 
