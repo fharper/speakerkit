@@ -10,38 +10,38 @@ jobs:
           uses: actions/checkout@main
 
         - name: Download .vale.ini
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O .vale.ini https://raw.githubusercontent.com/fharper/gh-configs/main/.vale.ini
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/.vale.ini"
 
         - name: Create the folders
           run: |
             mkdir -p styles && mkdir -p styles/Custom && mkdir -p styles/Vocab && mkdir -p styles/Vocab/base
 
         - name: Download Custom Style ignore.txt
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O styles/Custom/ignore.txt https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/ignore.txt
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/ignore.txt"
 
         - name: Download Custom Style spelling.yml
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O styles/Custom/spelling.yml https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/spelling.yml
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/spelling.yml"
 
         - name: Download Custom Style substitutions.yml
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O styles/Custom/substitutions.yml https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/substitutions.yml
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/substitutions.yml"
 
         - name: Download base Vocab accept.txt
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O styles/Vocab/base/accept.txt https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/accept.txt
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/accept.txt"
 
         - name: Download base Vocab reject.txt
-          uses: fharper/wget@v1
+          uses: suisei-cn/actions-download-file@v1.4.0
           with:
-            args: -O styles/Vocab/base/reject.txt https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/reject.txt
+            url: "https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/reject.txt"
 
         - name: Validate the syntax
           uses: errata-ai/vale-action@reviewdog
