@@ -7,6 +7,7 @@ My public speaking kit for the event’s organizers.
 - [Prioritization](#prioritization)
 - [Keep in mind](#keep-in-mind-that)
 - [Personal information](personalinfo.md)
+- [Kubefirst (my employer) Information](https://github.com/kubefirst/branding)
 - [Biography](biography.md)
 - [Pictures](pictures/)
 
