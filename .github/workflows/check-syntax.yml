@@ -46,5 +46,6 @@ jobs:
         - name: Validate the syntax
           uses: errata-ai/vale-action@reviewdog
           with:
+            reporter: github-check
             fail_on_error: true
             vale_flags: "--config=.vale.ini"
