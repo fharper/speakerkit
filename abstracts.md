@@ -12,6 +12,8 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Public Speaking](#public-speaking)
 - [Workshops](#workshops)
 
+<!-- markdownlint-disable MD024 -->
+
 ## Cloud Native (Kubernetes, GitOps…)
 
 ### Adopt Kubernetes Easily With kubefirst, an Open Source GitOps Platform
