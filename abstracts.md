@@ -22,6 +22,14 @@ Ever hear someone say that Kubernetes is not complicated. It makes my head spin 
 
 Getting started is not a piece of cake, and kubefirst, a free and open source tool, comes to the rescue. It provides a fully automated application delivery and infrastructure management GitOps platform which does the hard work for you, while setting you up for success with the best cloud native tools: all that with a single command. In this talk we will cover the pros and cons of kubefirst, while giving you everything you need to get started with your very own Kubernetes deployment in a breeze.
 
+### Bring your Kubernetes game to the next level with these open-source tools
+
+No matter if you are a carpenter, a baker, or a developer, there’s no denying that using the right tools can make the difference between doing the job correctly, sometimes even painfully, or absolutely mastering your art. It is the same for DevOps engineers and GitOps practitioners: you can be more productive, agile, and truly take ownership of your Kubernetes journey. This talk will present, and demonstrate the most useful, and powerful open source utilities available out there. Whether you are new to the cloud native space, or are a K8s connoisseur, your pod life will never be the same!
+
+#### Details
+
+My goal is to equip people using Kubernetes with tools, all open source, that will make their life easier in creating, managing, fixing, debugging, and playing with K8s clusters. I will focus mostly on command line interface tools with a mix of expert-level utilities, and applications to add to your toolbox when you start with cloud native technologies. It’s a way for me to give visibility to open-source software, not just from CNCF, and help developers, DevOps, and GitOps practitioners to perfect their mastering of Kubernetes.
+
 ### Git Shit Done, the GitOps Way
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
