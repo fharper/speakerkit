@@ -24,6 +24,10 @@ Getting started is not a piece of cake, and kubefirst, a free and open source to
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
 
+#### Details
+
+I firmly believe that when one is thinking about using Kubernetes, GitOps is the way to go. It's slowly becoming an accepted standard, but it's still quite unknown or not used enough as a starting point when one is beginning its cloud native journey. I want to honestly highlight the pros, and cons of the GitOps principles to let people choose their path, armed with the proper information, when it comes to creating, and managing clusters. Whether you agree about the fact that GitOps should be a de facto best practice, you can't deny that your attendees need to learn about the principles, and how to get started before making this architectural decision.
+
 ### Moving to Kubernetes Without Losing Your Sanity
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? You read about it, explored this new adventure, and now you are daydreaming about the time you could simply deploy your application without having to think about clusters, pods, and Ingress Controllers. It was the Good Ol' Days, right?
