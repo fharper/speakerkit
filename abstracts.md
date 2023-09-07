@@ -42,7 +42,7 @@ My goal is to equip people using Kubernetes with open source that will make thei
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
 
-#### Shoter Abstract
+#### Shorter Abstract
 
 Stop what you are doing right now, and let me help you in your Kubernetes journey by introducing you to GitOps. This talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road.
 
@@ -60,7 +60,7 @@ Are you flirting with the idea of moving your application from traditional cloud
 
 It might seem like it, but trust me, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices of taken from the DevOps space (i.e. Infrastructure as Code, Continuous Integration, Continuous Development), to the GitOps principles, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
 
-#### Shoter Abstracts
+#### Shorter Abstracts
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? If so, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
 
@@ -77,7 +77,7 @@ The end goal is to:
 - help developers get started with Kubernetes as easily, and quickly as possible.
 - help people who are already playing in the container, and cloud native space to be successful.
 
-##### Shoter Details
+##### Shorter Details
 
 The goal is to simplify this technology, and share tips, best practices, and principles they should know to make their life easier:
 
