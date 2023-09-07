@@ -26,6 +26,10 @@ Getting started is not a piece of cake, and kubefirst, a free and open source to
 
 No matter if you are a carpenter, a baker, or a developer, there’s no denying that using the right tools can make the difference between doing the job correctly, sometimes even painfully, or absolutely mastering your art. It is the same for DevOps engineers and GitOps practitioners: you can be more productive, agile, and truly take ownership of your Kubernetes journey. This talk will present, and demonstrate the most useful, and powerful open source utilities available out there. Whether you are new to the cloud native space, or are a K8s connoisseur, your pod life will never be the same!
 
+#### Shorter Abstract
+
+No matter if you are a carpenter or a developer, using the right tools can make the difference between doing the job correctly, sometimes even painfully, or absolutely mastering your art. It is the same for DevOps engineers and GitOps practitioners: you can be more productive, agile, and truly take ownership of your Kubernetes journey. This talk will present, and demonstrate the most useful, and powerful open source utilities available out there.
+
 #### Details
 
 My goal is to equip people using Kubernetes with tools, all open source, that will make their life easier in creating, managing, fixing, debugging, and playing with K8s clusters. I will focus mostly on command line interface tools with a mix of expert-level utilities, and applications to add to your toolbox when you start with cloud native technologies. It’s a way for me to give visibility to open-source software, not just from CNCF, and help developers, DevOps, and GitOps practitioners to perfect their mastering of Kubernetes.
