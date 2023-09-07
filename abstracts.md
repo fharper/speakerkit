@@ -34,6 +34,10 @@ No matter if you are a carpenter or a developer, using the right tools can make 
 
 My goal is to equip people using Kubernetes with tools, all open source, that will make their life easier in creating, managing, fixing, debugging, and playing with K8s clusters. I will focus mostly on command line interface tools with a mix of expert-level utilities, and applications to add to your toolbox when you start with cloud native technologies. It’s a way for me to give visibility to open-source software, not just from CNCF, and help developers, DevOps, and GitOps practitioners to perfect their mastering of Kubernetes.
 
+##### Shorter Details
+
+My goal is to equip people using Kubernetes with open source that will make their life easier in creating, managing, fixing, debugging, and playing with K8s clusters. I will focus mostly on command line interface tools with a mix of expert-level utilities, and applications to add to your toolbox when you start with cloud native technologies.
+
 ### Git Shit Done, the GitOps Way
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
