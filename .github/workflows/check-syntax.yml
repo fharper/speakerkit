@@ -28,9 +28,6 @@ jobs:
         - name: Download base Vocab accept.txt
           run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/accept.txt -O styles/Vocab/base/accept.txt
 
-        - name: Download base Vocab reject.txt
-          run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/reject.txt -O styles/Vocab/base/reject.txt
-
         - name: Get latest version of Vale
           id: lastversion
           uses: dvershinin/lastversion-action@v0.0.3
