@@ -60,6 +60,10 @@ Are you flirting with the idea of moving your application from traditional cloud
 
 It might seem like it, but trust me, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices of taken from the DevOps space (i.e. Infrastructure as Code, Continuous Integration, Continuous Development), to the GitOps principles, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
 
+#### Shoter Abstracts
+
+Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? If so, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
+
 #### Details
 
 With this talk, I want to ease the pain that most developers had when they decided to move to Kubernetes.
@@ -69,6 +73,13 @@ The goal is to simplify this technology, and share tips, best practices, and pri
 As mentioned in the abstract, things like best practices around CI, CD, IaC, open source tools, and GitOps principles like having a git repository as their source of truth, to establish better collaboration, a secure environment, lengthy traceability, and much more.
 
 The end goal is to:
+
+- help developers get started with Kubernetes as easily, and quickly as possible.
+- help people who are already playing in the container, and cloud native space to be successful.
+
+##### Shoter Details
+
+The goal is to simplify this technology, and share tips, best practices, and principles they should know to make their life easier:
 
 - help developers get started with Kubernetes as easily, and quickly as possible.
 - help people who are already playing in the container, and cloud native space to be successful.
