@@ -109,6 +109,10 @@ The end goal is to:
 - help developers get started with containers & Kubernetes as easily, and quickly as possible.
 - help people who are already playing in the container, and cloud native space to be successful.
 
+### Surfing the Argo CD sync waves
+
+If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. You also want a declarative GitOps CD if you stick to the GitOps principles, and manage your cluster with a single source of truth, the Git repository. There are some interesting choices out there, Argo CD being one of the best. In this talk, let’s surf the sync waves together, and learn the intrinsic parts of using Argo CD to deploy, and manage applications on your clusters. We’ll explore the insightful web UI, but also play with the CLI for terminal lovers. You’ll also end up with a broader comprehension of GitOps through the lenses of Argo CD while improving your application lifecycle management (ALM).
+
 ### What the Heck Is Kubernetes
 
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
