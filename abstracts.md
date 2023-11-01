@@ -48,6 +48,10 @@ My goal is to equip people using Kubernetes with open source that will make thei
 
 _Characters: 343_
 
+#### Tags
+
+Cloud Native, Kubernetes, Open Source, Tools
+
 ### Git Shit Done, the GitOps Way
 
 Are you an avid cloud user, and are now contemplating Kubernetes for your project? Did you already start to play with clusters, controllers, pods and anything K8s? In both cases, stop what you are doing right now, and let me help you in your  container orchestration journey by introducing you to GitOps. I know, I know… you barely jumped the DevOps wagon, and there is already this new kid in town. Worry not my friend, because this talk will set you on the path to success for implementing Continuous Deployment (CD) for cloud native applications. You’ll learn what the hell is GitOps, and how it will help you better collaborate with your team, deploy & iterate faster within a more secure environment, while saving some costs on the road. In the end, you’ll leave with concrete steps to implement best practices to get shit done, the GitOps way!
@@ -72,11 +76,19 @@ GitOps is the way to go, but it's still quite unknown or not used for cloud nati
 
 _Characters: 248_
 
+#### Tags
+
+Argo CD, Cloud Native, Continuous Delivery, GitOps, Infrastructure as Code, Kubernetes, Open Source
+
 ### Indiana Jones and the Temple of Secrets
 
 Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilous journey was nothing until the day he traveled to the unexplored territories of Cloudy Nativa, and encountered his biggest mystery so far: the discovery of the Temple of Secrets! Don’t be afraid my friends, as I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine that I call, HashiCorp Vault, which will leave him undetected by the local tribe, the Kubernasty, known for being pod killers. In the end, Dr. Jones will go back to his day-to-day grinds with tips, and tricks on how to properly manage the secrets he discovered during his latest adventures, and be prepared for any disaster ( and recovery) that may arise in the future. Nothing short of what would have made professor Jones, his dad, quite proud.
 
 _Characters: 825_
+
+#### Tags
+
+Cloud Native, Kubernetes, Secrets Management, Security, Vault
 
 ### Moving to Kubernetes Without Losing Your Sanity
 
@@ -87,6 +99,10 @@ It might seem like it, but trust me, there are ways to make the move without los
 _Characters: 814_
 
 #### Shorter Abstracts
+
+#### Tags
+
+Cloud Native, Kubernetes, Scalability
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? If so, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
 
@@ -147,11 +163,19 @@ If you want to be successful in your cloud native journey, a good Kubernetes-nat
 
 _Characters: 746_
 
+#### Tags
+
+Argo CD, Cloud Native, Continuous Delivery, GitOps, Kubernetes, Open Source, Scalability
+
 ### What the Heck Is Kubernetes
 
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
 
 _Characters: 720_
+
+#### Tags
+
+Cloud Native, Kubernetes, Scalability
 
 ## Developer Relations / Community Building
 
