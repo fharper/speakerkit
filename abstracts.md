@@ -98,6 +98,12 @@ Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilou
 
 _Characters: 825_
 
+#### Shorter Abstracts
+
+Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilous journey was nothing until he traveled to Cloudy Nativa, and discovered the Temple of Secrets! Don’t be afraid as I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine, HashiCorp Vault, which will leave him undetected by the local tribe, the Kubernasty, known for being pod killers. Dr. Jones will go back with tips on how to properly manage the secrets from his latest adventures, and be prepared for any disaster (and recovery) that may arise in the future.
+
+_Characters: 574_
+
 #### Tagline
 
 Follow Indiana Jones journey as he traveled to the unexplored territories of Cloudy Nativa, and discover the Temple of Secrets! I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine, HashiCorp Vault.
@@ -118,6 +124,12 @@ _Characters: 814_
 
 #### Shorter Abstracts
 
+Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? You read about it, and now you are daydreaming about the time you could simply deploy your app without having to think about clusters, pods, and controllers.
+
+It might seem like it, but trust me, there are ways to make the move without losing your sanity! In this talk, I will help you get started. With some best practices taken from the DevOps space, to the GitOps principles, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
+
+_Characters: 595_
+
 #### Tagline
 
 Are you flirting with Kubernetes? You read about it, but now you are daydreaming about the time you could simply deploy your app without having to think about clusters! Do not worry; this talk will help you demystify K8s, and get started in no time.
@@ -127,6 +139,8 @@ _Characters: 249_
 #### Tags
 
 Cloud Native, Kubernetes, Scalability
+
+#### Shorter Abstracts
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? If so, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With some best practices, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
 
@@ -187,6 +201,12 @@ If you want to be successful in your cloud native journey, a good Kubernetes-nat
 
 _Characters: 746_
 
+#### Shorter Abstracts
+
+If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. There are some interesting choices out there, Argo CD being one of the best. In this talk, let’s surf the sync waves together, and learn the intrinsic parts of using Argo CD to deploy, and manage applications on your clusters. We’ll explore the insightful web UI, but also play with the CLI for terminal lovers. You’ll also end up with a broader comprehension of GitOps through the lenses of Argo CD while improving your application lifecycle management (ALM).
+
+_Characters: 594_
+
 #### Tagline
 
 If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. Argo CD being one of the best, we'll learn the intrinsic parts of using it to deploy, and manage apps on your clusters.
@@ -202,6 +222,12 @@ Argo CD, Cloud Native, Continuous Delivery, GitOps, Kubernetes, Open Source, Sca
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
 
 _Characters: 720_
+
+#### Shorter Abstracts
+
+Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? All your questions will be answered in this talk! We will demystify this together. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, and how to get started.
+
+_Characters: 578_
 
 #### Tagline
 
