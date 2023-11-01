@@ -48,6 +48,12 @@ My goal is to equip people using Kubernetes with open source that will make thei
 
 _Characters: 343_
 
+#### Tagline
+
+As DevOps engineers & GitOps practitioners, using the right tools make all the difference. I will demonstrate the most useful open source utilities out there to help you be more productive, and truly take the ownership of your Kubernetes journey.
+
+_Characters: 246_
+
 #### Tags
 
 Cloud Native, Kubernetes, Open Source, Tools
@@ -76,6 +82,12 @@ GitOps is the way to go, but it's still quite unknown or not used for cloud nati
 
 _Characters: 248_
 
+#### Tagline
+
+We will set you on the path to success for implementing Continuous Deployment (CD) for cloud native apps, while learning about GitOps, and how it will help you better collaborate with your team, deploy & iterate faster, while saving some costs.
+
+_Characters: 244_
+
 #### Tags
 
 Argo CD, Cloud Native, Continuous Delivery, GitOps, Infrastructure as Code, Kubernetes, Open Source
@@ -85,6 +97,12 @@ Argo CD, Cloud Native, Continuous Delivery, GitOps, Infrastructure as Code, Kube
 Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilous journey was nothing until the day he traveled to the unexplored territories of Cloudy Nativa, and encountered his biggest mystery so far: the discovery of the Temple of Secrets! Don’t be afraid my friends, as I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine that I call, HashiCorp Vault, which will leave him undetected by the local tribe, the Kubernasty, known for being pod killers. In the end, Dr. Jones will go back to his day-to-day grinds with tips, and tricks on how to properly manage the secrets he discovered during his latest adventures, and be prepared for any disaster ( and recovery) that may arise in the future. Nothing short of what would have made professor Jones, his dad, quite proud.
 
 _Characters: 825_
+
+#### Tagline
+
+Follow Indiana Jones journey as he traveled to the unexplored territories of Cloudy Nativa, and discover the Temple of Secrets! I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine, HashiCorp Vault.
+
+_Characters: 233_
 
 #### Tags
 
@@ -99,6 +117,12 @@ It might seem like it, but trust me, there are ways to make the move without los
 _Characters: 814_
 
 #### Shorter Abstracts
+
+#### Tagline
+
+Are you flirting with Kubernetes? You read about it, but now you are daydreaming about the time you could simply deploy your app without having to think about clusters! Do not worry; this talk will help you demystify K8s, and get started in no time.
+
+_Characters: 249_
 
 #### Tags
 
@@ -163,6 +187,12 @@ If you want to be successful in your cloud native journey, a good Kubernetes-nat
 
 _Characters: 746_
 
+#### Tagline
+
+If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. Argo CD being one of the best, we'll learn the intrinsic parts of using it to deploy, and manage apps on your clusters.
+
+_Characters: 253_
+
 #### Tags
 
 Argo CD, Cloud Native, Continuous Delivery, GitOps, Kubernetes, Open Source, Scalability
@@ -172,6 +202,12 @@ Argo CD, Cloud Native, Continuous Delivery, GitOps, Kubernetes, Open Source, Sca
 Ever wonder what that fuss is all about! Is this just a new technology that will die along the thousands of JavaScript libraries that were supposed to change the way we code? Is Kubernetes, K8s for close friends, really a game changer? Even if it was, do you or your project really need a container orchestration system with its clusters, controllers, pods and all those new moving pieces? My friend, I got your back, as all, yes, ALL your questions will be answered in this talk. We will demystify together what the heck is this thing. In the end, you’ll have a better understanding of the platform & its quirks, including the pros and cons, how to get started, and some must-know tools that will make your life easier.
 
 _Characters: 720_
+
+#### Tagline
+
+Ever wonder what that Kubernetes fuss is all about! Is it really a game changer? Let's demystify K8s together, and learn how to get started.
+
+_Characters: 140_
 
 #### Tags
 
