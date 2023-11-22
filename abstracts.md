@@ -226,6 +226,10 @@ If you want to be successful in your cloud native journey, a good Kubernetes-nat
 
 _Characters: 594_
 
+#### Details
+
+I firmly believe it's beneficial to the cloud native ecosystem to not just learn about CNCF projects, and educate users about any open source projects that can help them being successful. Argo CD is one of the leaders when it comes to an open source alternative for GitOps ecosystems, providing a high production-ready quality continuous deployment tool. In this talk, the attendees will learn more about how to leverage GitOps with Argo CD to bring their Kubernetes game to the next level.
+
 #### Tagline
 
 If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. Argo CD being one of the best, we'll learn the intrinsic parts of using it to deploy, and manage apps on your clusters.
