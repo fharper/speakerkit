@@ -112,7 +112,7 @@ _Characters: 233_
 
 #### Tags
 
-Cloud Native, Kubernetes, Secrets Management, Security, Vault
+Best Practices, Cloud Native, Disaster Recovery, GitOps, Kubernetes, Secrets Management, Security, Vault
 
 ### Moving to Kubernetes Without Losing Your Sanity
 
