@@ -104,6 +104,10 @@ Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilou
 
 _Characters: 574_
 
+#### Details
+
+This talk will highlight other technologies, like HashiCorp Vault, to solidify external secrets, and provide a bulletproof way to manage secrets in a GitOps way, while benefiting of disaster recovery implementation. It's a great way to showcase other cloud native technologies, and not just the one in the landscape. Attendees will come back home with actionable tips, and tricks on how to secure their Kubernetes game and with another way to manage their secrets.
+
 #### Tagline
 
 Follow Indiana Jones journey as he traveled to the unexplored territories of Cloudy Nativa, and discover the Temple of Secrets! I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine, HashiCorp Vault.
