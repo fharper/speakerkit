@@ -114,6 +114,21 @@ Follow Indiana Jones journey as he traveled to the unexplored territories of Clo
 
 _Characters: 233_
 
+#### Technologies
+
+##### CNCF Projects
+
+- External Secrets
+- Kubernetes
+
+##### Other Open Source Projects
+
+None
+
+##### Others
+
+- HashiCorp Vault
+
 #### Tags
 
 Best Practices, Cloud Native, Disaster Recovery, GitOps, Kubernetes, Secrets Management, Security, Vault
