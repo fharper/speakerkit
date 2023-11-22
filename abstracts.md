@@ -236,6 +236,20 @@ If you want to be successful in your cloud native journey, a good Kubernetes-nat
 
 _Characters: 253_
 
+#### Technologies
+
+##### CNCF Projects
+
+- Kubernetes
+
+##### Other Open Source Projects
+
+- Argo CD
+
+##### Others
+
+None
+
 #### Tags
 
 Argo CD, Cloud Native, Continuous Delivery, GitOps, Kubernetes, Open Source, Scalability
