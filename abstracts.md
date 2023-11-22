@@ -90,7 +90,7 @@ _Characters: 244_
 
 #### Tags
 
-Argo CD, Cloud Native, Continuous Delivery, GitOps, Infrastructure as Code, Kubernetes, Open Source
+Argo CD, Best Practices, Cloud Native, Continuous Delivery, GitOps, IaC, Infrastructure as Code, Kubernetes, Open Source
 
 ### Indiana Jones and the Temple of Secrets
 
