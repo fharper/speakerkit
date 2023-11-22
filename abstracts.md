@@ -56,7 +56,7 @@ _Characters: 246_
 
 #### Tags
 
-Cloud Native, Kubernetes, Open Source, Tools
+CLI, Cloud Native, Kubernetes, Management, Open Source, Tips & Tricks, Tools, Utilities
 
 ### Git Shit Done, the GitOps Way
 
