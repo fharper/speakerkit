@@ -91,6 +91,18 @@ _Characters: 244_
 
 Argo CD, Best Practices, Cloud Native, Continuous Delivery, GitOps, IaC, Infrastructure as Code, Kubernetes, Open Source
 
+### GitHub Actions workflows: a cloud native best friend
+
+If you use GitHub as your main collaboration tools for anything code related, you probably use Actions workflows already. Still, are you really unleashing all its potential, especially when it’s come to cloud native?
+
+In this talk, we will discuss the benefits of using workflows to bring your Kubernetes game to the next level. We will demonstrate and create workflows to manage your Kubernetes deployments, deploy new Helm charts, and even integrate them with cloud native workflow engines like Argo Workflows. You will end up with clear examples, and real-case scenarios to perfect your cloud native journey with the help of GitHub Actions.
+
+_Characters: 643_
+
+#### Tags
+
+Argo Workflows, CI, Cloud Native, Continuous Integration, GitHub, GitHub Actions, GitHub Workflows, Kubernetes
+
 ### Indiana Jones and the Temple of Secrets
 
 Forget the Lost Ark and the Kingdom of the Crystal Skull, Indiana Jones' perilous journey was nothing until the day he traveled to the unexplored territories of Cloudy Nativa, and encountered his biggest mystery so far: the discovery of the Temple of Secrets! Don’t be afraid my friends, as I’ll guide Indy toward managing his applications’ secrets with a special weapon of mine that I call, HashiCorp Vault, which will leave him undetected by the local tribe, the Kubernasty, known for being pod killers. In the end, Dr. Jones will go back to his day-to-day grinds with tips, and tricks on how to properly manage the secrets he discovered during his latest adventures, and be prepared for any disaster (and recovery) that may arise in the future. Nothing short of what would have made professor Jones, his dad, quite proud.
