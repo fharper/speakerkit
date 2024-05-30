@@ -5,7 +5,6 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Cloud Native (Kubernetes, GitOps…)](#cloud-native-kubernetes-gitops)
 - [Developer Relations / Community Building](#developer-relations--community-building)
 - [Documentation](#documentation)
-- [Low-Code / No-Code](#low-code--no-code)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
@@ -347,22 +346,6 @@ It’s time for you to step up your game & unleash your secret weapon: a high qu
 <!-- vale on -->
 
 _Characters: 245_
-
-## Low-Code / No-Code
-
-### Low-Code and No-Code: a Developer Superpower
-
-Once upon a time, a developer read an article about these low-code and no-code concepts. The developer wasn’t quite sure of the benefits, if any, of those new paradigms. It is, after all, his job to create applications, and he is pretty good at it!
-
-“Why would someone limit themselves to a predefined, or mostly already defined approach”, the developer asked himself! But one day, the developer woke up, agitated by a dream. “Was this real? Is this really possible? Maybe the low and no-code approaches aren’t that bad after all…”. But what was that dream? What makes him change his mind?
-
-_Characters: 589_
-
-#### Details
-
-This session will dive into the value of leveraging low-code and no-code, and the specific benefits seasoned developers gain from this approach. Navigate this “dream” with us, as we go beyond the ease of use, from customization to testing capabilities and today’s sought-after productivity boost. We will dive into specific examples of use cases that will help demystify the value of low-code, no-code as a business strategy.
-
-_Characters: 425_
 
 ## Mental Health
 
