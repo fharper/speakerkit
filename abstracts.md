@@ -451,6 +451,10 @@ Contributing to a project in the open is often scary. I want to demystify this, 
 
 _Characters: 761_
 
+#### Tags
+
+Open Source, Open-Source Sofrware, OSS, Contributions
+
 ## Personal Branding
 
 ### A Personal Brand? Surprise, you already have one!
