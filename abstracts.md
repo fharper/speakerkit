@@ -364,6 +364,14 @@ It’s time for you to step up your game and measure up to the big players. Lear
 
 _Characters: 751_
 
+#### Shorter Abstract
+
+You can have the best product out there, but if your documentation isn’t on par with the experience you want to offer, success is not guaranteed. So use the documentation as your secret weapon for greater adoption, and growth that you may have not known you could achieve.
+
+It’s time for you to step up your game! Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
+
+_Characters: 571_
+
 #### Outline
 
 This talk is divided in three main acts, mainly focusing on tips, tricks and interesting examples to unleash your secret weapon, your developers documentation:
