@@ -453,7 +453,7 @@ _Characters: 761_
 
 #### Tags
 
-Open Source, Open-Source Sofrware, OSS, Contributions
+Open Source, Open-Source Software, OSS, Contributions
 
 ## Personal Branding
 
