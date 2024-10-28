@@ -382,6 +382,10 @@ This talk is divided in three main acts, mainly focusing on tips, tricks and int
 
 _Characters: 725_
 
+#### Tags
+
+Developer Documentation, Documentation, Docs, Education, Tutorials
+
 #### Tweet
 
 <!-- vale off -->
