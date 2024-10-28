@@ -26,6 +26,14 @@ From traditional operations like code linting, to pull requests validations, pas
 
 _Characters: 830_
 
+#### Shorter Abstract
+
+Whether you are new to GitHub Workflows or already a connoisseur, we will explore the syntax, triggers and commands to get you started. You will also become savvy by extending our newly created workflows to more advanced usage demonstrations, while learning how to reuse them or even make them available in the GitHub Marketplace.
+
+From traditional operations like code linting, passing by integration with other technologies and customization for your needs, you will go back home with all the tools you need to bring your GitHub Actions workflows game to the next level.
+
+_Characters: 572_
+
 #### Tags
 
 CI, Continuous Integration, GitHub, GitHub Actions, GitHub Workflows
