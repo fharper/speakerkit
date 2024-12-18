@@ -335,6 +335,10 @@ I firmly believe you cannot have a sustainable Open Source business if you do no
 
 _Characters: 623_
 
+### The good, the bad & the ugly of developer relations
+
+Developer Advocate is a wonderful role. It’s a chance to help people be successful while fostering growth for your employer. It’s a perfect blend of a technical position focusing on the human side of the equation. For most of us, starting that position was a dream come true. For aspiring advocates, it is an ideal opportunity for a new career. Employment in the developer relations space is amazing, but it’s not always rainbows and unicorns. There are a lot of misunderstandings about the job itself. Often total misconceptions about the goals and approaches taken to be fruitful. Based on 14 years of being the friendly, technical, approachable, and social face of different organizations, this talk will bring some real hard truths about the good, the bad and the ugly bits of our industry. Experienced devrel people will relate, and new emerging talents could learn from the past and the shared proofed solutions, prospective workarounds and clear remedies to the less exciting part of this vocation.
+
 ### The Secret Sauce for Building a Healthy Cloud Native Community
 
 Are you building a cloud native technology? Maybe you are thinking about creating a much-needed piece of software for the Kubernetes ecosystem? In both cases, no matter how extraordinary the masterpiece you are crafting is, it will be quite an achievement to be successful without a community. Whether your product is open source, proprietary, free, paid or a well-balanced mix of those, not fostering a developer, DevOps and or GitOps community can be a costly business mistake.
