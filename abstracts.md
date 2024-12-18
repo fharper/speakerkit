@@ -6,6 +6,7 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Cloud Native (Kubernetes, GitOps…)](#cloud-native-kubernetes-gitops)
 - [Developer Relations / Community Building](#developer-relations--community-building)
 - [Documentation](#documentation)
+- [Leadership / Management](#leadership--management)
 - [Mental Health](#mental-health)
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
@@ -395,6 +396,14 @@ It’s time for you to step up your game & unleash your secret weapon: a high qu
 <!-- vale on -->
 
 _Characters: 245_
+
+## Leadership / Management
+
+### Leading with compassion
+
+In any article, survey or research on the reasons why people resign, in the top three, you can always find, in some form or another, “bad management”. Whether it’s more extreme as a toxic leadership team, more subtle as a lack of support or any reasons in between, it’s there, without a fault.
+
+As a leader, the best way to foster a healthy work environment in which your team feels safe and happy, is to lead with compassion. It’s the only path to be successful in today’s competitive environment, while retaining your talent and ensuring that they can achieve greatness within your organization. In this talk, also open to individual contributors who want to show the way to their manager, we’ll explore what it means to lead with compassion. I will share concrete tips on how to prioritize your people and see productive results like you’ve never seen before.
 
 ## Mental Health
 
