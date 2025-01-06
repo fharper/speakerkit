@@ -45,6 +45,10 @@ CI, Continuous Integration, GitHub, GitHub Actions, GitHub Workflows
 
 Remember when FTP was all the rage when it came to deploying an application on your server. A time when the term “cloud computing” wasn’t even a thing. A moment in space, for which “cloud native” would make sense only weather wise. In a Kubernetes’ world, it’s critical to understand this new paradigm shift in software deployment, scalability, and management. In this talk, we’ll learn more about Kubernetes by making clear parallels between the world before and this newish open-source container orchestration system. You will become familiar enough to get started on this new pods and clusters journey.
 
+#### Details
+
+With this talk, I want to ease the pain that most developers have when they decide to move to Kubernetes. The focus will be on people who have been in tech for a while, and may be refractory to the concepts around cloud native since they are coming from a totally different world when it comes to deploying and managing their applications on the web. The goal is to simplify K8s, and share tips, best practices, and principles they should know vs what they need to know now to be successful and make their lives easier.
+
 ### Adopt Kubernetes Easily With kubefirst, an Open Source GitOps Platform
 
 Ever hear someone say that Kubernetes is not complicated. It makes my head spin every time! Like with any new platform, there is a learning curve, and as with any other technology, the more experience you have, the better you become. Still, I feel like Kubernetes (K8s for close friends) introduce a lot of new concepts that were unfamiliar to us. There are also a lot of moving pieces which make the time to digest it all, longer than previous technologies we’ve learned. Don’t get me wrong, it makes sense since we are talking about a powerful platform that can scale container orchestration from a mom & pop shop, to a Google ecosystem size-wise.
