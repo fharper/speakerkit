@@ -165,8 +165,7 @@ Argo Workflows, CI, Cloud Native, Continuous Integration, GitHub, GitHub Actions
 
 ##### CNCF Projects
 
-- External Secrets
-- Kubernetes
+- External Secrets, Kubernetes
 
 ##### Other Open Source Projects
 
