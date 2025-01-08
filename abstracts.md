@@ -135,6 +135,20 @@ _Characters: 244_
 
 Argo CD, Best Practices, Cloud Native, Continuous Delivery, GitOps, IaC, Infrastructure as Code, Kubernetes, Open Source
 
+#### Technologies
+
+##### CNCF Projects
+
+- Helm, kubectl, Kubernetes
+
+##### Other Open Source Projects
+
+- Argo CD, Atlantis, k9s
+
+##### Others
+
+- HashiCorp Terraform, HashiCorp Vault
+
 ### GitHub Actions workflows: a cloud native best friend
 
 If you use GitHub as your main collaboration tools for anything code related, you probably use Actions workflows already. Still, are you really unleashing all its potential, especially when it’s come to cloud native?
