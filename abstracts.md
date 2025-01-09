@@ -286,11 +286,11 @@ _Characters: 253_
 
 ##### CNCF Projects
 
-- Kubernetes
+- Helm, kubectl, Kubernetes
 
 ##### Other Open Source Projects
 
-- Argo CD
+- Argo CD, k9s, Kustomize
 
 ##### Others
 
