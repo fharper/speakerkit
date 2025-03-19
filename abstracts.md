@@ -11,7 +11,6 @@ I'm always looking to give new talks, so let me know if there is a specific topi
 - [Open Source](#open-source)
 - [Personal Branding](#personal-branding)
 - [Public Speaking](#public-speaking)
-- [Workshops](#workshops)
 
 <!-- markdownlint-disable MD024 MD036 -->
 
@@ -48,14 +47,6 @@ Remember when FTP was all the rage when it came to deploying an application on y
 #### Details
 
 With this talk, I want to ease the pain that most developers have when they decide to move to Kubernetes. The focus will be on people who have been in tech for a while, and may be refractory to the concepts around cloud native since they are coming from a totally different world when it comes to deploying and managing their applications on the web. The goal is to simplify K8s, and share tips, best practices, and principles they should know vs what they need to know now to be successful and make their lives easier.
-
-### Adopt Kubernetes Easily With kubefirst, an Open Source GitOps Platform
-
-Ever hear someone say that Kubernetes is not complicated. It makes my head spin every time! Like with any new platform, there is a learning curve, and as with any other technology, the more experience you have, the better you become. Still, I feel like Kubernetes (K8s for close friends) introduce a lot of new concepts that were unfamiliar to us. There are also a lot of moving pieces which make the time to digest it all, longer than previous technologies we’ve learned. Don’t get me wrong, it makes sense since we are talking about a powerful platform that can scale container orchestration from a mom & pop shop, to a Google ecosystem size-wise.
-
-Getting started is not a piece of cake, and kubefirst, a free and open source tool, comes to the rescue. It provides a fully automated application delivery and infrastructure management GitOps platform which does the hard work for you, while setting you up for success with the best cloud native tools: all that with a single command. In this talk we will cover the pros and cons of kubefirst, while giving you everything you need to get started with your very own Kubernetes deployment in a breeze.
-
-_Characters: 1150_
 
 ### Bring your Kubernetes game to the next level with these open-source tools
 
@@ -532,11 +523,3 @@ _Characters: 527_
 The idea is to help people to go past the frightening idea of public speaking, but even more to let attendees know that they all can do it. We all had the imposter syndrome when we gave our first talk, and look at me, I gave more than 100 in the past and still love it!
 
 _Characters: 269_
-
-## Workshops
-
-### kubefirst
-
-Ever hear someone say that Kubernetes is not complicated. It makes Frédéric Harper’s, Principal Developer Advocate at kubefirst, head spin every time! Getting started is no piece of cake, so this is where, kubefirst, a free and open source tool, comes to the rescue. In this workshop, Fred will show you how to use our CLI to deploy a new Kubernetes cluster in minutes, with the most popular cloud native tools. We will install the CLI, deploy a new cluster locally using k3d & Docker, and we will explore its pieces. Since your new cluster is already fully functional, we will discuss the GitOps principles with your new "source of truth repository”, use Terraform with Atlantis, add a new user using HashiCorp Vault, surf the Argo CD sync waves, and master the magic steps to deploy a new application in the cloud. You can't miss this, we'll have some K8s fun!
-
-_Characters: 862_
