@@ -458,11 +458,11 @@ _Characters: 257_
 
 ## Open Source
 
-### How to become an open source contributor in 10 steps
+### How to become an open source contributor
 
-Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
+Participating in an open-source project can be intimidating, even for experienced developers. You might ask yourself questions like ‘Where should I start? Do I have the skill set to provide valuable input? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’. Those are all valid questions! I will answer them by helping you better understand what it means to contribute to open source, the value behind it, and by giving you easy tips on how to get started and become an OSS contributor.
 
-_Characters: 443_
+_Characters: 537_
 
 #### Details
 
