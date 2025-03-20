@@ -464,6 +464,12 @@ Participating in an open-source project can be intimidating, even for experience
 
 _Characters: 537_
 
+#### Shorter Abstract
+
+Participating in an open-source project can be intimidating, even for experienced developers. Where should you start? Will your suggestion or code well received?. I will answer these questions and more by helping you better understand the value behind it, and how to get started.
+
+_Characters: 279_
+
 #### Details
 
 Open source is part of every developer's life these days: if it's not from your own, a library or framework you are probably using has some open building pieces. Still, it's a minimal part of our community that participate, so I want to help people understand the many ways they can start to be a contributor today, right after the talk. The secret sauce? It's not just about code. I'll base this on my experience working on OSS projects and for OSS companies.
