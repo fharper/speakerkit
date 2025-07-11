@@ -132,36 +132,6 @@ Argo CD, Best Practices, Cloud Native, Continuous Delivery, GitOps, IaC, Infrast
 
 - HashiCorp Terraform, HashiCorp Vault
 
-### GitHub Actions workflows: a cloud native best friend
-
-If you use GitHub as your main collaboration tools for anything code related, you probably use Actions workflows already. Still, are you really unleashing all its potential, especially when it’s come to cloud native?
-
-In this talk, we will discuss the benefits of using workflows to bring your Kubernetes game to the next level. We will demonstrate and create workflows to manage your Kubernetes deployments, deploy new Helm charts, and even integrate them with cloud native workflow engines like Argo Workflows. You will end up with clear examples, and real-case scenarios to perfect your cloud native journey with the help of GitHub Actions.
-
-_Characters: 643_
-
-#### Tags
-
-Argo Workflows, CI, Cloud Native, Continuous Integration, GitHub, GitHub Actions, GitHub Workflows, Kubernetes
-
-#### Technologies
-
-##### CNCF Projects
-
-- External Secrets, Kubernetes
-
-##### Other Open Source Projects
-
-None
-
-##### Others
-
-- HashiCorp Vault
-
-#### Tags
-
-Best Practices, Cloud Native, Disaster Recovery, GitOps, Kubernetes, Secrets Management, Security, Vault
-
 ### Moving to Kubernetes Without Losing Your Sanity
 
 Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? You read about it, explored this new adventure, and now you are daydreaming about the time you could simply deploy your application without having to think about clusters, pods, and Ingress Controllers. It was the Good Ol' Days, right?
