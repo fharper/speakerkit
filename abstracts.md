@@ -242,9 +242,9 @@ _Characters: 915_
 
 ## Documentation
 
-### Developers Documentation: your secret weapon
+### Developers Documentation: your hidden strength
 
-You can have the best product in your expertise area, but if your documentation isn’t on par with the flawless experience you want to offer to the world, success is not guaranteed. Let’s be real here: documentation is often an afterthought and rarely included in life cycle development processes. Still, documentation is the secret weapon for greater adoption, and growth that you may have not known you could achieve.
+You can have the best product in your expertise area, but if your documentation isn’t on par with the flawless experience you want to offer to the world, success is not guaranteed. Let’s be real here: documentation is often an afterthought and rarely included in life cycle development processes. Still, documentation is your underestimate strength for greater adoption, and growth that you may have not known you could achieve.
 
 It’s time for you to step up your game and measure up to the big players. Learn about the benefits of high quality and educational documentation and the true role it plays in the developer community. You’ll also learn the principles of a solid foundation, and tips on how to use one of the most powerful developer relations’ tools.
 
