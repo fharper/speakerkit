@@ -40,14 +40,6 @@ CI, Continuous Integration, GitHub, GitHub Actions, GitHub Workflows
 
 ## Cloud Native (Kubernetes, GitOps…)
 
-### A Kubernetes’ guide for old-timers
-
-Remember when FTP was all the rage when it came to deploying an application on your server. A time when the term “cloud computing” wasn’t even a thing. A moment in space, for which “cloud native” would make sense only weather wise. In a Kubernetes’ world, it’s critical to understand this new paradigm shift in software deployment, scalability, and management. In this talk, we’ll learn more about Kubernetes by making clear parallels between the world before and this newish open-source container orchestration system. You will become familiar enough to get started on this new pods and clusters journey.
-
-#### Details
-
-With this talk, I want to ease the pain that most developers have when they decide to move to Kubernetes. The focus will be on people who have been in tech for a while, and may be refractory to the concepts around cloud native since they are coming from a totally different world when it comes to deploying and managing their applications on the web. The goal is to simplify K8s, and share tips, best practices, and principles they should know vs what they need to know now to be successful and make their lives easier.
-
 ### Bring your Kubernetes game to the next level with these open-source tools
 
 No matter if you are a carpenter, a baker, or a developer, there’s no denying that using the right tools can make the difference between doing the job correctly, sometimes even painfully, or absolutely mastering your art. It is the same for DevOps engineers and GitOps practitioners: you can be more productive, agile, and truly take ownership of your Kubernetes journey. This talk will present, and demonstrate the most useful, and powerful open source utilities available out there. Whether you are new to the cloud native space, or are a K8s connoisseur, your pod life will never be the same!
