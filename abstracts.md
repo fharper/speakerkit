@@ -132,31 +132,6 @@ Argo CD, Best Practices, Cloud Native, Continuous Delivery, GitOps, IaC, Infrast
 
 - HashiCorp Terraform, HashiCorp Vault
 
-### Moving to Kubernetes—And Containers—Without Losing Your Sanity
-
-> This is similar to the talk "Moving to Kubernetes Without Losing Your Sanity", with the addition of focusing on standard containerization of applications as in using tools like Docker or Podman.
-
-Are you flirting with the idea of moving your application from traditional cloud to Kubernetes? Did you decide it was the end of the “it’s working on my machine” era by containerizing your application? You read about it, explored this new adventure, and now you are daydreaming about the time you could simply deploy your application without those new kids on the block. It was the Good Ol' Days, right?
-
-It might seem like it, but trust me, there are ways to make the move without losing your sanity! In this talk, I will help you get started like it was a skill you owned since your first line of code. With the best practices of DevOps (i.e. Infrastructure as Code, Continuous Integration, Continuous Development), to the GitOps principles, we will explore together the tools at your disposal to make a flawless transition into the new age of cloud native apps.
-
-_Characters: 864_
-
-#### Details
-
-With this talk, I want to ease the pain that most developers had when they decided to move to Kubernetes, or containerized their apps.
-
-The goal is to simplify these technologies, and share tips, best practices, and principles they should know to make their life easier.
-
-As mentioned in the abstract, things like best practices around CI/CD, IaC, open source tools, and even GitOps principles like having a git repository as their source of truth, to establish better collaboration, a secure environment, lengthy traceability, and much more.
-
-The end goal is to:
-
-- help developers get started with containers & Kubernetes as easily, and quickly as possible.
-- help people who are already playing in the container, and cloud native space to be successful.
-
-_Characters: 756_
-
 ### Surfing the Argo CD sync waves
 
 If you want to be successful in your cloud native journey, a good Kubernetes-native continuous deployment (CD) tool is indispensable. You also want a declarative GitOps CD if you stick to the GitOps principles, and manage your cluster with a single source of truth, the Git repository. There are some interesting choices out there, Argo CD being one of the best. In this talk, let’s surf the sync waves together, and learn the intrinsic parts of using Argo CD to deploy, and manage applications on your clusters. We’ll explore the insightful web UI, but also play with the CLI for terminal lovers. You’ll also end up with a broader comprehension of GitOps through the lenses of Argo CD while improving your application lifecycle management (ALM).
