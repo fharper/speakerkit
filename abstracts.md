@@ -216,10 +216,6 @@ I firmly believe you cannot have a sustainable Open Source business if you do no
 
 _Characters: 623_
 
-### Measuring developer relations
-
-The million-dollar question: how do you properly measure developer relations? How is one's manager able to objectively tell if you are doing a good job or not? How can your employer decide if the return on investment (ROI) is high enough to continue to empower devrel within your organization? Hell, how do you even justify your job when the company isn’t thriving? Those are all good questions that are often left unanswered or baffle even the most experienced amongst us. Still, even if you are allergic to these terms, there are ways to define appropriate goals, track specific key performance indicators (KPI) and clearly demonstrate the benefit of developer advocacy without ending up with sales quotas or ludicrous requests. In this talk, you will learn how to realistically identify how you can set yourself for success using metrics that will solidify your impact on the business while keeping your role intact, without so much as a small headache.
-
 ### The good, the bad & the ugly of developer relations
 
 Developer Advocate is a wonderful role. It’s a chance to help people be successful while fostering growth for your employer. It’s a perfect blend of a technical position focusing on the human side of the equation. For most of us, starting that position was a dream come true. For aspiring advocates, it is an ideal opportunity for a new career. Employment in the developer relations space is amazing, but it’s not always rainbows and unicorns. There are a lot of misunderstandings about the job itself. Often total misconceptions about the goals and approaches taken to be fruitful. Based on 14 years of being the friendly, technical, approachable, and social face of different organizations, this talk will bring some real hard truths about the good, the bad and the ugly bits of our industry. Experienced devrel people will relate, and new emerging talents could learn from the past and the shared proofed solutions, prospective workarounds and clear remedies to the less exciting part of this vocation.
