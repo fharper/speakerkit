@@ -220,17 +220,17 @@ _Characters: 623_
 
 Developer Advocate is a wonderful role. It’s a chance to help people be successful while fostering growth for your employer. It’s a perfect blend of a technical position focusing on the human side of the equation. For most of us, starting that position was a dream come true. For aspiring advocates, it is an ideal opportunity for a new career. Employment in the developer relations space is amazing, but it’s not always rainbows and unicorns. There are a lot of misunderstandings about the job itself. Often total misconceptions about the goals and approaches taken to be fruitful. Based on 14 years of being the friendly, technical, approachable, and social face of different organizations, this talk will bring some real hard truths about the good, the bad and the ugly bits of our industry. Experienced devrel people will relate, and new emerging talents could learn from the past and the shared proofed solutions, prospective workarounds and clear remedies to the less exciting part of this vocation.
 
-### The Secret Sauce for Building a Healthy Cloud Native Community
+### The Secret Sauce for Building a Developer Community
 
-Are you building a cloud native technology? Maybe you are thinking about creating a much-needed piece of software for the Kubernetes ecosystem? In both cases, no matter how extraordinary the masterpiece you are crafting is, it will be quite an achievement to be successful without a community. Whether your product is open source, proprietary, free, paid or a well-balanced mix of those, not fostering a developer, DevOps and or GitOps community can be a costly business mistake.
+Are you building a developer tool? Maybe your software or service isn't targetted to developers, but has a technical component for them to use it? In both cases, no matter how extraordinary the masterpiece you are crafting is, it will be quite an achievement to be successful without a community. Whether your product is open source, proprietary, free, paid or a well-balanced mix of those, not fostering a developer, DevOps and or GitOps community can be a costly business mistake.
 
-In this session, we will explore the best practices, tips, and tricks drawn from the secret sauce behind any successful developer relations programs when it comes to community building. In the end, you’ll be equipped, no matter your role, to grow, and cultivate your very own healthy community where each side will find benefits.
+In this session, we will explore the best practices, tips, and tricks drawn from the secret sauce behind any successful developer relations programs when it comes to communities building. In the end, you’ll be equipped, no matter your role, to grow, and cultivate your very own healthy community where each side will find benefits.
 
 _Characters: 810_
 
 #### Details
 
-With this talk, I want to help anyone building for the cloud native ecosystem, that having, and fostering a healthy community is not optional anymore.
+With this talk, I want to help anyone, who is building softwares, understand that creating and fostering a healthy community is not optional anymore.
 
 Developers, DevOps or GitOps practitioners (me included), want to be part of something bigger than themselves. They want to fit in. They want to be heard. They want to create a relationship with a company, and see that there is a human side.
 
