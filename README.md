@@ -1,45 +1,54 @@
 # My Speaker Kit
 
-My public speaking kit for the event’s organizers.
+My public speaking kit for the event’s organizers. You should find everything you need here, but if not, [let me know](mailto:hi@fred.dev).
 
 - [Abstracts](abstracts.md)
-- [Requirements](#requirements) (read this before contacting me please)
+- [Biography](biography.md)
+- [Personal information](personalinfo.md)
+- [Pictures](pictures.md)
+- [Requirements](#requirements)
 - [Prioritization](#prioritization)
 - [Keep in mind](#keep-in-mind-that)
-- [Personal information](personalinfo.md)
-- [kubefirst (my employer) Information](https://github.com/kubefirst/branding)
-- [Biography](biography.md)
-- [Pictures](pictures.md)
 
-If you want to see talks I gave previously (170+ in 20+ countries), check my [speaking page](https://fred.dev/speaking/).
+If you want to see a list of talks I gave previously (190+ in 20+ countries) including slides and some recording, check my [speaking page](https://fred.dev/speaking/).
 
 ## Requirements
 
-If you want me to speak at your event, here is a list of requirements I have:
+If you want me to speak at your event, here is a list of non-negotiable requirements I have.
 
-- Your event is welcoming everyone, no matter where they come from, their social status, gender, orientation, beliefs, education and their mental or physical abilities.
-- Your conference provides access for wheelchair users and people with reduced mobility.
-- You have an enforced Code of Conduct (looking for one, check [confcodeofconduct.com)](https://github.com/confcodeofconduct/confcodeofconduct.com).
-- If you record my talk, the video cannot be behind a paywall: it also cannot be sold in any capacity.
-- You want me to speak at your event because you find my content valuable for your attendees, not because you expect or wish that my employer sponsors your event (which doesn't mean it's not a possibility).
-- I'm only using my laptop (MacBook Pro 2021 - M1 Pro), and my clicker (remote presenter): I can connect to a projector using USB-C (Thunderbolt 4), HDMI, DisplayPort & VGA.
-- I'm not giving my slides in advance unless there are live interprets. I will have backups on my slides on my laptop, and in the cloud (2 different services), and I will gladly give my slides and code examples for you to share after my talk.
-- I'm not using conference templates. I spend a lot of time crafting the visual for my slides. I'll be happy to add the event logo on them, or have the title slide formatted like you want.
-- If you book the flights for me, please use [Air Canada](https://www.aircanada.com) (or a [Star Alliance member](https://www.staralliance.com/en/members)): I have my frequent flyer status which will make my life easier. For flights longer than four hours, I require business class tickets (or premier economy).
-- If you book the hotel for me, I prefer [Hilton](https://www.hilton.com) as I also have a status that comes with benefits. If it's not possible, I prefer a hotel to Airbnb.
+### Regarding the events
+
+- Your event is welcoming to everyone, no matter where they come from, their social status, gender, orientation, culture, beliefs, education and their mental or physical abilities.
+- Your event needs to provide easy access for wheelchair users and people with reduced mobility.
+- Your event has an enforced Code of Conduct (if you have none, check [confcodeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com) for a great example).
+
+### Regarding my talk
+
+- You want me to speak at your event because you find my content valuable for your attendees, not because you expect my employer to sponsor your event (which doesn't mean it's not a possibility).
+- If you my talk is recorded, the video need to be freely available without registration requires, and cannot be sold in any capacity.
+- I will only be using my laptop, and my clicker (remote presenter) to present: I can connect without issues to a projector using USB-C (Thunderbolt 4), HDMI, DisplayPort & VGA.
+- I'm not giving my slides in advance unless there are live interprets, but I will gladly provide them and code examples after my talk. I always share them in my [speaking page](https://fred.dev/speaking/).
+- I'm not using any conference slide templates. I spend a lot of time crafting the visual for my slides. If absolutely necessary, I can make an exception for the title slide.
+
+### Regarding the Travel
+
+- If your organization is taking care of my flights, please validate the date and time with me first. Use [Air Canada](https://www.aircanada.com) or a [Star Alliance member](https://www.staralliance.com/en/members).
+- For flights longer than four hours, please book business class or at a minimum, premium economy.
+- Unless the event is local, I will arrive at a minium one day before the event (no red eyes to arrive the day of the event).
+- Unless this is a short flight and I can arrive home in the evening, I will leave the day after.
+- If your organization is taking care of the accommodation, I prefer [Hilton](https://www.hilton.com) or [Marriot](https://www.marriott.com). If it's not possible, any other hotels will do, but no Airbnb please.
 
 ## Prioritization
 
-Public speaking season is busy, so it's not always possible for me to speak at all events. I will prioritize the ones that are:
+The public speaking season is busy, so it's not always possible for me to present at all events. I will prioritize the ones that are:
 
-- Giving me a prime speaking slot (not the morning after the conference party, nor last session of the day or right after lunch).
+- Giving me a prime speaking slot (not the morning after the conference party, nor the last session of the day or right after lunch).
 - Recording the talk.
 - Paying for the travel arrangements.
 - Taking real steps to promote diversity.
 
 ## Keep in mind that
 
-- I'm happy to give more than one talk at your event.
-- French is my first language, but I highly prefer to deliver my talks in English.
+- I'm happy to give more than one talk at your event to maximize my presence.
+- French is my first language, but I highly prefer to deliver my presentations in English.
 - I'll be more than happy to mentor other speakers.
-- My talks are all 45 minutes long (unless specified), but I can adapt the content to any shorter timeslots.
