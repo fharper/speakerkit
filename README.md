@@ -9,7 +9,7 @@ My public speaking kit for the event’s organizers.
 - [Personal information](personalinfo.md)
 - [kubefirst (my employer) Information](https://github.com/kubefirst/branding)
 - [Biography](biography.md)
-- [Pictures](pictures/)
+- [Pictures](pictures.md)
 
 If you want to see talks I gave previously (170+ in 20+ countries), check my [speaking page](https://fred.dev/speaking/).
 
