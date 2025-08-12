@@ -14,7 +14,7 @@ Yes, in black & white, with my silly hoodie and my beloved late cat, Nina. It re
 
 ## Other sizes
 
-- [1500x1500](pictures/fharper-original-1500x1500.jpeg) (254 KB)
-- [400x400](pictures/fharper-original-400x400.jpeg) (38 KB)
+- [1500x1500](pictures/fharper-1500x1500.jpeg) (254 KB)
+- [400x400](pictures/fharper-400x400.jpeg) (38 KB)
 
 No alteration (color, size, compression) without my consent. If you need a different dimension, please let me know and I will provide it to you. Lastly, thanks to [Eva Blue](https://evablue.com) for always taking amazing pictures of me!
