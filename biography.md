@@ -16,11 +16,17 @@ Known for his approachable style, authentic voice, and relatable storytelling, F
 
 Outside of tech, Fred is a cat lover who also teaches meditation and Buddhist philosophy. He brings the same level of curiosity and creativity to his personal life as he does to his professional work.
 
-## Small version
+## Medium version
 
 > 537 characters, 81 words, 4 sentences
 
 Frédéric Harper is a seasoned Developer Advocate with over 20 years in tech, currently Senior Developer Relations Manager at Tiugo Technologies specializing in TinyMCE rich text editor. Fred has held developer advocacy roles at industry giants such as Microsoft, Mozilla, Fitbit, and npm. He's spoken at hundreds of events globally and authored "Success in Programming – How to Gain Recognition, Power, and Influence Through Personal Branding" (Apress). Outside of tech, he is a cat lover, and teaches meditation and Buddhist philosophy.
+
+## Small version
+
+> 398 characters, 61 words, 3 sentences
+
+Frédéric Harper is a seasoned Developer Advocate with over 20 years in tech, currently Senior Developer Relations Manager at Tiugo Technologies specializing in TinyMCE rich text editor. Fred has held developer advocacy roles at industry giants such as Microsoft, Mozilla, Fitbit, and npm. He's spoken at hundreds of events globally and authored a book on personal branding for developers at Apress.
 
 ## Tweet size version
 
