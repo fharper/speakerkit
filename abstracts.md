@@ -15,6 +15,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [It’s a developers’ world: creating a developer relations culture](abstracts/devrel.md)
 - [Leading with compassion](abstracts/leading-with-compassion.md)
 - [Public Speaking? It’s for you!](abstracts/public-speaking.md)
+- [Supercharge Moodle Course Design with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
 - [Surfing the Argo CD sync waves](abstracts/argo-cd.md)
 - [The good, the bad & the ugly of developer relations](abstracts/devrel-reality.md)
 - [The Secret Sauce for Building a Developer Community](abstracts/community-building.md)
