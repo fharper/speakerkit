@@ -22,21 +22,11 @@ Here are the information conferences or meetup usually need about their speakers
 
 ## Professional
 
-_If you need to put a company next to my profile, please use the [product information](#product-focus) below._
-
-**Company:** Tiugo Technologies
+**Company:** TinyMCE
 
 **Title:** Senior Developer Relations Manager
 
-**Email:** [frederic.harper@tiugotech.com](mailto:frederic.harper@tiugotech.com)
-
-**Website:** <https://www.tiugotech.com>
-
-**LinkedIn:** <https://www.linkedin.com/company/tiugo-technologies/>
-
-## Product Focus
-
-**Product:** TinyMCE
+**Email:** [frederic.harper@tiny.cloud](mailto:frederic.harper@tiny.cloud)
 
 **Website:** <https://www.tiny.cloud>
 
