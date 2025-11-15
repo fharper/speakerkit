@@ -19,6 +19,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Surfing the Argo CD sync waves](abstracts/argo-cd.md)
 - [The good, the bad & the ugly of developer relations](abstracts/devrel-reality.md)
 - [The Secret Sauce for Building a Developer Community](abstracts/community-building.md)
+- [Tiny but mighty: TinyMCE in Umbraco](abstracts/tinymce-umbraco.md)
 - [Unleash your superpowers with GitHub Actions workflows](abstracts/github-actions.md)
 - [What the Heck Is Kubernetes](abstracts/kubernetes.md)
 - [You Don't Need to Be a Buddhist to Meditate](abstracts/meditation.md)
