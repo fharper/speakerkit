@@ -5,6 +5,7 @@ Here is a list of talks I can easily give at your events. They are a mix of new 
 Don't limit your choice with those: I may be open to give others from my [speaking page](https://fred.dev/speaking/). I'm also always open to suggestions, so let me know if there is a specific topic you would like to have at your event, and if I have the knowledge and interest, I'll be more than happy to create one just for you.
 
 - [A Personal Brand? Surprise, you already have one!](abstracts/personal-branding.md)
+- [AI for Senior Developers: The Wins, the Risks, and the Blind Spot](abstracts/ai.md)
 - [Common Bottlenecks in Collaborating on Written Content at Scale](abstracts/collaboration-bottlenecks.md)
 - [Developer Relations Through the Roof: Measuring Developer Success](abstracts/measuring-devrel.md)
 - [Developers Documentation: your hidden strength](abstracts/developers-documentation.md)
