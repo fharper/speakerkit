@@ -13,6 +13,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [How to become an open source contributor](abstracts/open-source.md)
 - [It’s a developers’ world: creating a developer relations culture](abstracts/devrel.md)
 - [Leading with compassion](abstracts/leading-with-compassion.md)
+- [Make your web application load faster than your users’ attention span](abstracts/javascript-bundle.md)
 - [Public Speaking? It’s for you!](abstracts/public-speaking.md)
 - [Supercharge Moodle Course Design with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
 - [The good, the bad & the ugly of developer relations](abstracts/devrel-reality.md)
