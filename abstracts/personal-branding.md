@@ -1,14 +1,8 @@
 # A Personal Brand? Surprise, you already have one!
 
-Why should you care about your personal brand? After all, it’s not like you are an actor or the lead singer for a rock band. In fact, it’s never been more important for you to think about yourself as a brand. Doing so will provide rocket fuel for your career. You’ll find better jobs and become a  “thought leader” in your industry. You’ll become known for your expertise and leadership; people will seek your advice and point of view. As a developer, there are many tools you can use to build a personal brand, and this presentation will help you learn how to get visibility, make a real impact, and achieve your goals. You don’t need to be a marketing expert or a personal branding guru— you can be yourself and get your dream job or reach the next level of your career.
+Why should you care about your personal brand? After all, it’s not like you’re an actor or the lead singer for a rock band. In reality, it’s never been more important for you to think about yourself as a brand. Doing so provides rocket fuel for your career. You’ll find better jobs, and become a  thought leader in your industry. Be known for your expertise and leadership, and people will seek your advice and point of view. There are many tools available for building a personal brand as a developer. This presentation will help you learn how to get visibility, make a real impact, and achieve your goals. You don’t need to be a marketing expert or a personal branding guru. Be yourself and reach the next level of your career.
 
-_Characters: 772_
-
-## Shorter Abstract
-
-Why should you care about your personal brand? After all, it’s not like you are an actor or the lead singer for a rock band. In fact, it’s never been more important for you to think about yourself as a brand. Doing so will provide rocket fuel for your career. As a developer, there are many tools you can use to build a personal brand, and this presentation will help you learn how to get visibility, make a real impact, and achieve your goals.
-
-_Characters: 444_
+_Characters: 729_
 
 ## Details
 
