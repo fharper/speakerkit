@@ -16,6 +16,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Make your web application load faster than your users’ attention span](abstracts/javascript-bundle.md)
 - [Public Speaking? It’s for you!](abstracts/public-speaking.md)
 - [Scaling Umbraco with Kubernetes without burning the place down](abstracts/umbraco-kubernetes.md)
+- [Shipping happiness with Umbraco packages](abstracts/umbraco-packages.md)
 - [Supercharge Moodle Course Design with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
 - [Surviving the JavaScript package managers jungle](abstracts/javascript-package-managers.md)
 - [The good, the bad & the ugly of developer relations](abstracts/devrel-reality.md)
