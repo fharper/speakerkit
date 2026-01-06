@@ -10,6 +10,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Developer Relations Through the Roof: Measuring Developer Success](abstracts/measuring-devrel.md)
 - [Developers Documentation: your hidden strength](abstracts/developers-documentation.md)
 - [Don't .gitignore mental health](abstracts/mental-health.md)
+- [Extend Moodle’s capabilities through custom plugins](abstracts/moodle-plugins.md)
 - [From <textarea> to superpowers: building serious editors in Angular with TinyMCE](abstracts/tinymce-angular.md)
 - [How to become an open source contributor](abstracts/open-source.md)
 - [It’s a developers’ world: creating a developer relations culture](abstracts/devrel.md)
