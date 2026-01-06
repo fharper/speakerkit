@@ -7,6 +7,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [A Personal Brand? Surprise, you already have one!](abstracts/personal-branding.md)
 - [AI for Senior Developers: The Wins, the Risks, and the Blind Spot](abstracts/ai.md)
 - [Common Bottlenecks in Collaborating on Written Content at Scale](abstracts/collaboration-bottlenecks.md)
+- [Creating for everyone: understanding accessibility](abstracts/accessibility.md)
 - [Developer Relations Through the Roof: Measuring Developer Success](abstracts/measuring-devrel.md)
 - [Developers Documentation: your hidden strength](abstracts/developers-documentation.md)
 - [Don't .gitignore mental health](abstracts/mental-health.md)
