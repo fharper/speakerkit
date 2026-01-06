@@ -6,7 +6,7 @@ Depression, dark thoughts,  anxiety – These are some of the words that most of
 
 More than ever, we need to talk about mental health! This is why I want to share my experience with depression, general anxiety, ADHD, and experience volunteering at a suicide prevention hotline. Along with my thoughts on how we can improve the situation, I’ll be sharing some tips to help people be more open about these topics and issues – more importantly, I want to touch on how those struggling can ask for help and assistance when needed.
 
-_Characters: 768_
+> 768 characters, 136 words, 6 sentences
 
 ## Details
 
@@ -21,10 +21,10 @@ It's not an easy topic... I've done a major depression in 2015, and still strugg
 
 To be honest, if one, only one person goes out from this talk and decides to ask for help, I'll consider myself successful!
 
-_Characters: 936_
+> 936 characters, 173 words, 14 sentences
 
 ## Tweet
 
 Discussing mental health is still taboo in the developer world, where working long hours & lack of sleep are badges of honor. Don't .gitignore mental health is the message @fharper is sharing! Come learn how to be more open about it, for yourself & other 💜
 
-_Characters: 257_
+> 257 characters

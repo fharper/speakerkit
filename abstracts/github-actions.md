@@ -6,7 +6,7 @@ Whether you are new to them or already a connoisseur, we will explore the syntax
 
 From traditional operations like code linting, to pull requests validations, passing by integration with other technologies and customization for your special needs, you will go back home with all the tools you need to bring your GitHub Actions workflows game to the next level.
 
-_Characters: 830_
+> 830 characters, 134 words, 3 sentences
 
 ## Shorter Abstract
 
@@ -14,7 +14,7 @@ Whether you are new to GitHub Workflows or already a connoisseur, we will explor
 
 From traditional operations like code linting, passing by integration with other technologies and customization for your needs, you will go back home with all the tools you need to bring your GitHub Actions workflows game to the next level.
 
-_Characters: 572_
+> 572 characters, 93 words, 3 sentences
 
 ## Tags
 

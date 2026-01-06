@@ -4,4 +4,4 @@ Choosing a JavaScript package manager today can feel like navigating a jungle wi
 
 In this talk, we’ll cut through the hype and confusion, compare install speeds, disk usage, support, and compatibility to give you practical rules for picking the right tool for your team and your projects. You’ll leave with a clear strategy to tame the infamous node_modules while keeping your workflow and your sanity intact.
 
-_Characters: 616_
+> 616 characters, 100 words, 4 sentences

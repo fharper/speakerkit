@@ -4,7 +4,7 @@ Are you building a developer tool? Maybe your software or service isn't targeted
 
 In this session, we will explore the best practices, tips, and tricks drawn from the secret sauce behind any successful developer relations programs when it comes to communities building. In the end, you’ll be equipped, no matter your role, to grow, and cultivate your very own healthy community where each side will find benefits.
 
-_Characters: 810_
+> 810 characters, 134 words, 4 sentences
 
 ## Details
 
@@ -16,4 +16,4 @@ There are also ample benefits on the business side in addition to ensuring you f
 
 There are specific techniques to be successful when creating a cloud native community, and I intend to share the best practices to connect with a developer and technical audience, which should be approached with some guidelines in mind.
 
-_Characters: 915_
+> 915 characters, 152 words, 9 sentences

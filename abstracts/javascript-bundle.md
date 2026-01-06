@@ -2,4 +2,4 @@
 
 Modern frontend performance can hinge on how small and fast JavaScript bundles can be, but developers often struggle to get real gains. In this talk we’ll explore patterns and build-time strategies that drastically reduce bundle size to save you and your users time, all while staying cost efficient. You will leave with actionable steps, measurable outcomes and techniques like code splitting, tree-shaking optimizations, ESM delivery, edge caching and much more.
 
-_Characters: 464_
+> 464 characters, 70 words, 3 sentences

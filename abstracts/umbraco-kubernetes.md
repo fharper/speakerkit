@@ -4,10 +4,10 @@ Content Management Systems are often managed in a traditional way: running in a 
 
 In this talk I’ll walk you through what using cloud native technologies with Umbraco looks like. We’ll explore the decisions you need to make and how to avoid setting your infrastructure on fire. Expect practical advice on how to design your architecture (frontend vs back office), common pitfalls, managing stateful components like the database, scaling and rollback patterns if everything goes to hell, all while being cloud-agnostic.
 
-_Characters: 873_
+> 873 characters, 134 words, 6 sentences
 
 ## Shorter Abstract
 
 Running a CMS in one environment with fingers crossed rarely scales. This talk will show how Kubernetes and cloud-native best practices can make Umbraco more resilient, scalable and observable without setting your infrastructure on fire.
 
-_Characters: 237_
+> 237 characters, 35 words, 2 sentences

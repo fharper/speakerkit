@@ -4,4 +4,4 @@ Moodle is a powerful Learning Management System, but sometimes you need to go be
 
 In this talk, we’ll explore how to build a Moodle plugin from scratch. Among other things, we will demystify the most common plugin types, learn about the Moodle coding guidelines which ensure a higher level of quality and standards within the platform, explore best practices for plugin creation, and define the steps needed to ensure your new masterpiece is accepted in the directory, if it's your heart's desire. If you go that route, you will also go back home with a better understanding on what is important from the Moodle team’s point of view to ensure the best experience, and hopefully, go through the review process in a breeze.
 
-_Characters: 1047_
+> 1047 characters, 172 words, 7 sentences

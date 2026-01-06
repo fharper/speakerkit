@@ -4,4 +4,4 @@ When you’re responsible for delivering a flood of high‑quality written conte
 
 In this talk, you’ll discover the invisible forces that stall your content pipeline or impair the quality of your content. From unclear ownership and misaligned expectations, to improper tooling and inconsistent style, we’ll unpack the core issues that create bottlenecks for teams as they scale. You’ll learn to diagnose the root causes of friction and implement practical tactics. Whether your team is five or fifty, you’ll be equipped to elevate content quality, and boost overall confidence in your content system without stumbling into chaos.
 
-_Characters: 1026_
+> 1026 characters, 153 words, 7 sentences

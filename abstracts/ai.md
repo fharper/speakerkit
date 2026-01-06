@@ -6,10 +6,10 @@ But outside of the hype and usefulness of LLMs, have you ever stopped to really 
 
 Most of us jumped on the bandwagon without a second thought! In this talk, we’ll have a realistic overview of the landscape right now, what it means for the future, how to implement bulletproof AI strategies, identify potential risks, and how to empower your team to be successful in this new AI era.
 
-_Characters: 874_
+> 874 characters, 146 words, 7 sentences
 
 ## Shorter Abstract
 
 By now you’ve seen enough talks about vibe coding and artificial intelligence while experimenting with it yourself. But outside of the hype and usefulness of LLMs, have you ever stopped to really consider the implications for senior developers and leadership teams? Did you evaluate how it can help you achieve software development marvels versus where the hype stops? In this talk, we’ll have a realistic overview of the landscape right now, what it means for the future, how to implement bulletproof AI strategies, identify potential risks, and how to empower your team to be successful in this AI era.
 
-_Characters: 604_
+> 604 characters, 99 words, 2 sentences
