@@ -20,6 +20,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [It’s a developers’ world: creating a developer relations culture](abstracts/devrel.md)
 - [Leading with compassion](abstracts/leading-with-compassion.md)
 - [Make your web application load faster than your users’ attention span](abstracts/javascript-bundle.md)
+- [Open Source: a public repository is the first step, not the finish line](abstracts/open-source-repository.md)
 - [Public Speaking? It’s for you!](abstracts/public-speaking.md)
 - [Scaling Umbraco with Kubernetes without burning the place down](abstracts/umbraco-kubernetes.md)
 - [Shipping happiness with Umbraco packages](abstracts/umbraco-packages.md)
