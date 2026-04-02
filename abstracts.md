@@ -16,6 +16,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [From <textarea> to superpowers: building serious editors in Angular with TinyMCE](abstracts/tinymce-angular.md)
 - [Git Shit Done, the GitOps Way](abstracts/gitops.md)
 - [How to become an open source contributor](abstracts/open-source.md)
+- [How to convince your boss to give back to open source](abstracts/open-source-giving.md)
 - [It’s a developers’ world: creating a developer relations culture](abstracts/devrel.md)
 - [Leading with compassion](abstracts/leading-with-compassion.md)
 - [Make your web application load faster than your users’ attention span](abstracts/javascript-bundle.md)

@@ -1,0 +1,5 @@
+# How to convince your boss to give back to open source
+
+There is not one software out there that doesn’t use open source in one fashion or another: a programming language, a library, a tool used to write or test the code, a piece of infrastructure… Every company out there is built on open source, and most are freeloaders: very few companies give back to the community and projects out there. It’s time to revert the trend, and stop having the whole ecosystem rest on the shoulders of mostly unpaid maintainers.
+
+This talk will give you the ammunition necessary to convince your boss to give back to the community as a company or let you help while at work. Yes, donating your time as a developer to contribute to the code is one way to do it, but we will explore all the other actions a company or an individual contributor can do to help open source projects thrive. To ensure that even the most money-driven people at your office are receptive to these ideas, this session will also cover clear business cases that will help sell the idea of becoming true open source citizens.
