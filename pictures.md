@@ -1,10 +1,8 @@
 # Pictures
 
-![Fred's official picture](pictures/fharper-original.jpeg)
+Please choose the format that you need for my official professional picture. If you need a different dimension, please let me know and I will provide it to you.
 
-Here is my official professional picture (please use the links below).
-
-Yes, in black & white, with my silly hoodie and my beloved late cat, Nina. It represents well who I am as a person and a Developer Advocate.
+Yes, it is in black & white, with my silly hoodie and my beloved late cat, Nina. It represents well who I am as a person and a Developer Advocate. It has never been a problem!
 
 ## Types
 
@@ -18,4 +16,4 @@ Yes, in black & white, with my silly hoodie and my beloved late cat, Nina. It re
 - [500x500](pictures/fharper-500x500.jpeg) (49 KB)
 - [400x400](pictures/fharper-400x400.jpeg) (38 KB)
 
-No alteration (color, size, compression) without my consent. If you need a different dimension, please let me know and I will provide it to you. Lastly, thanks to [Eva Blue](https://evablue.com) for always taking amazing pictures of me!
+No alteration (color, size, compression) without my consent.  Lastly, thanks to [Eva Blue](https://evablue.com) for always taking amazing pictures of me!
