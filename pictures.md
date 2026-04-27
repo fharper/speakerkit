@@ -13,6 +13,7 @@ Yes, it is in black & white, with my silly hoodie and my beloved late cat, Nina.
 ## Other sizes
 
 - [1500x1500](pictures/fharper-1500x1500.jpeg) (254 KB)
+- [1500x1500](pictures/fharper-1000x1000.jpeg) (160 KB)
 - [500x500](pictures/fharper-500x500.jpeg) (49 KB)
 - [400x400](pictures/fharper-400x400.jpeg) (38 KB)
 
