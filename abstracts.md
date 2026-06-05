@@ -28,7 +28,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Scaling Umbraco with Kubernetes without burning the place down](abstracts/umbraco-kubernetes.md)
 - [Shipping happiness with Umbraco packages](abstracts/umbraco-packages.md)
 - [Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components](abstracts/testing.md)
-- [Supercharge Moodle Course Design with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
+- [Supercharge Moodle with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
 - [Surfing the Argo CD sync waves](abstracts/argo-cd.md)
 - [Surviving the JavaScript package managers jungle](abstracts/javascript-package-managers.md)
 - [The honest path to open source sustainability](abstracts/open-source-sustainability.md)
