@@ -15,6 +15,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Don't .gitignore mental health](abstracts/mental-health.md)
 - [Extend Moodle’s capabilities through custom plugins](abstracts/moodle-plugins.md)
 - [From <textarea> to superpowers: building serious editors in Angular with TinyMCE](abstracts/tinymce-angular.md)
+- [From prompt hell to SKILL.md](abstracts/skills.md)
 - [Git Shit Done, the GitOps Way](abstracts/gitops.md)
 - [Hook your LLM to the real world: building an MCP server from scratch](abstracts/mcp.md)
 - [How to become an open source contributor](abstracts/open-source.md)
