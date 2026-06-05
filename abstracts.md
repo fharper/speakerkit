@@ -9,6 +9,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Bring your Kubernetes game to the next level with these open-source tools](abstracts/next-level-kubernetes.md)
 - [Common Bottlenecks in Collaborating on Written Content at Scale](abstracts/collaboration-bottlenecks.md)
 - [Creating for everyone: understanding accessibility](abstracts/accessibility.md)
+- [Death to the textarea (and what to do about it)](abstracts/tinymce.md)
 - [Developer Relations Through the Roof: Measuring Developer Success](abstracts/measuring-devrel.md)
 - [Developers Documentation: your hidden strength](abstracts/developers-documentation.md)
 - [Don't .gitignore mental health](abstracts/mental-health.md)
