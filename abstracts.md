@@ -29,6 +29,7 @@ Don't limit your choice with those: I may be open to give others from my [speaki
 - [Supercharge Moodle Course Design with TinyMCE Premium Tools](abstracts/tinymce-premium-moodle.md)
 - [Surfing the Argo CD sync waves](abstracts/argo-cd.md)
 - [Surviving the JavaScript package managers jungle](abstracts/javascript-package-managers.md)
+- [The honest path to open source sustainability](abstracts/open-source-sustainability.md)
 - [The little technical writing survival guide for the AI era](abstracts/ai-writing.md)
 - [The good, the bad & the ugly of developer relations](abstracts/devrel-reality.md)
 - [The Secret Sauce for Building a Developer Community](abstracts/community-building.md)
