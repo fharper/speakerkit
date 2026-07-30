@@ -1,6 +1,8 @@
 # Biography
 
-No modifications are allowed, including truncation of longer versions. If you need a different length, let me know, and I'll be happy to provide an adapted version.
+Choose between the [full](#full-version) (also know as way too long), [medium](#medium-version) (preferred), [small](#small-version) or [tweet size version](#tweet-size-version) of my biography.
+
+_Please note that no modifications are allowed, including truncation of longer versions. If you need a different length (or vibe), [let me know](mailto:hi@fred.dev), and I'll be happy to provide an adapted version._
 
 ## Full version
 
